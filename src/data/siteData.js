@@ -81,42 +81,42 @@ export const environments = [
   {
     title: 'Cozinhas Planejadas',
     description: 'Layout inteligente, armários sob medida e acabamentos pensados para a rotina da casa.',
-    image: image('photo-1556911220-bff31c812dba', 'Cozinha planejada com ilha e armários sob medida'),
+    image: image('photo-1771371282665-545256b20dca', 'Cozinha planejada moderna com armários em madeira e bancada sob medida'),
   },
   {
     title: 'Dormitórios',
     description: 'Guarda-roupas, cabeceiras e soluções de armazenamento com conforto visual e praticidade.',
-    image: image('photo-1595526114035-0d45ed16cfbf', 'Dormitório planejado com tons neutros'),
+    image: image('photo-1769690398694-9c5d5ca4b4ea', 'Dormitório planejado com guarda-roupa amplo e acabamento claro'),
   },
   {
     title: 'Closets',
     description: 'Projetos para organizar roupas, acessórios e rotina com elegância e acesso fácil.',
-    image: image('photo-1616046229478-9901c5536a45', 'Closet planejado com iluminação e portas sob medida'),
+    image: image('photo-1751806524616-47dd4fabd68d', 'Closet planejado com portas de vidro, madeira e iluminação quente'),
   },
   {
     title: 'Banheiros e Lavabos',
     description: 'Bancadas, nichos e gabinetes desenhados para aproveitar cada centímetro com leveza.',
-    image: image('photo-1584622650111-993a426fbf0a', 'Banheiro com gabinete planejado e acabamento claro'),
+    image: image('photo-1763485956292-7b9bed7b3c10', 'Banheiro moderno com gabinete planejado em madeira e bancada clara'),
   },
   {
     title: 'Lavanderias',
     description: 'Armários funcionais para organizar produtos, equipamentos e áreas compactas.',
-    image: image('photo-1556228453-efd6c1ff04f6', 'Lavanderia planejada com armários claros'),
+    image: image('photo-1751945965248-70b952b11193', 'Lavanderia planejada com armários superiores, bancada e máquina de lavar'),
   },
   {
     title: 'Home Office',
     description: 'Estações de trabalho sob medida para produtividade, conforto e integração com o ambiente.',
-    image: image('photo-1497366754035-f200968a6e72', 'Home office planejado com bancada e estantes'),
+    image: image('photo-1764743111075-fb988af9ed75', 'Home office planejado com bancada, armários e prateleiras sob medida'),
   },
   {
     title: 'Salas de TV',
     description: 'Painéis, racks e cristaleiras que valorizam o espaço social sem perder funcionalidade.',
-    image: image('photo-1618220179428-22790b461013', 'Sala de TV planejada com painel em madeira'),
+    image: image('photo-1755288556795-711618bfca4e', 'Sala de TV com painel planejado em madeira, rack e marcenaria sob medida'),
   },
   {
     title: 'Studios e apartamentos compactos',
     description: 'Soluções completas para integrar ambientes e transformar áreas pequenas em espaços bem resolvidos.',
-    image: image('photo-1522708323590-d24dbb6b0267', 'Apartamento compacto com mobiliário planejado'),
+    image: image('photo-1721395283507-1b17e527a922', 'Apartamento compacto integrado com cozinha planejada e área social aberta'),
   },
 ];
 
