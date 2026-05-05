@@ -15,14 +15,13 @@ export default function Hero() {
           className="h-full w-full scale-[1.03] object-cover blur-[2px]"
         />
         <div className="absolute inset-0 bg-vini-ink/72" />
-        <div className="absolute inset-y-0 left-0 w-full bg-vini-ink/18 lg:w-2/3" />
-        <div className="absolute inset-x-0 top-0 h-[68%] bg-gradient-to-b from-vini-ink/76 via-vini-ink/46 to-vini-ink/10" />
+        <div className="absolute inset-x-0 top-0 bottom-44 bg-vini-ink/45" />
         <div className="absolute inset-x-0 bottom-0 h-44 bg-vini-ink/45" />
       </div>
 
       <div className="relative mx-auto w-full max-w-7xl px-5 pb-16 pt-32 md:px-8 lg:pb-20 lg:pt-40">
         <div className="max-w-4xl reveal">
-          <p className="mb-6 text-sm font-bold uppercase tracking-[0.28em] text-vini-bronze md:text-base">
+          <p className="mb-7 inline-flex max-w-full border border-white/42 px-4 py-2 text-sm font-bold uppercase tracking-[0.16em] text-vini-ivory shadow-[0_14px_34px_rgba(0,0,0,0.18)] backdrop-blur-sm sm:text-base md:px-5 md:py-3 md:text-lg md:tracking-[0.22em]">
             {business.name}
           </p>
           <h1 className="font-display text-5xl leading-[0.98] text-vini-ivory md:text-7xl lg:text-8xl">

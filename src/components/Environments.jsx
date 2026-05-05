@@ -1,10 +1,24 @@
-import { ArrowUpRight } from 'lucide-react';
+import { useState } from 'react';
+import { ArrowUpRight, Images } from 'lucide-react';
 import { environments } from '../data/siteData.js';
 import { defaultWhatsAppMessage, whatsappLink } from '../utils/whatsapp.js';
+import EnvironmentIdeasModal from './EnvironmentIdeasModal.jsx';
 import OptimizedImage from './OptimizedImage.jsx';
 import SectionHeading from './SectionHeading.jsx';
 
 export default function Environments() {
+  const [selectedEnvironment, setSelectedEnvironment] = useState(null);
+  const [activeIdeaIndex, setActiveIdeaIndex] = useState(0);
+
+  const openIdeas = (environment) => {
+    setSelectedEnvironment(environment);
+    setActiveIdeaIndex(0);
+  };
+
+  const closeIdeas = () => {
+    setSelectedEnvironment(null);
+  };
+
   return (
     <section id="ambientes" className="bg-vini-ivory px-5 py-20 md:px-8 lg:py-28">
       <div className="mx-auto max-w-7xl">
@@ -31,13 +45,24 @@ export default function Environments() {
               key={environment.title}
               className="reveal group overflow-hidden bg-vini-paper shadow-sm transition duration-300 hover:-translate-y-1 hover:shadow-lift"
             >
-              <div className="aspect-[4/3] overflow-hidden bg-vini-smoke">
+              <button
+                type="button"
+                onClick={() => openIdeas(environment)}
+                className="relative block aspect-[4/3] w-full overflow-hidden bg-vini-smoke text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-vini-bronze focus-visible:ring-offset-4 focus-visible:ring-offset-vini-paper"
+                aria-label={`Ver mais ideias para ${environment.title}`}
+              >
                 <OptimizedImage
                   image={environment.image}
                   sizes="(min-width: 1024px) 25vw, (min-width: 640px) 50vw, 100vw"
-                  className="h-full w-full object-cover transition duration-700 group-hover:scale-105"
+                  className="h-full w-full object-cover transition-all duration-300 ease-out group-hover:scale-105 group-hover:blur-[2px] group-hover:brightness-75"
                 />
-              </div>
+                <span className="absolute inset-0 flex items-center justify-center bg-vini-ink/44 opacity-100 backdrop-blur-[2px] transition-all duration-300 ease-out sm:opacity-0 sm:backdrop-blur-0 sm:group-hover:opacity-100 sm:group-hover:backdrop-blur-[2px]">
+                  <span className="inline-flex items-center gap-2 border border-white/50 bg-white/10 px-5 py-3 text-xs font-bold uppercase tracking-[0.18em] text-white shadow-[0_18px_42px_rgba(0,0,0,0.22)] backdrop-blur">
+                    Ver mais ideias
+                    <Images aria-hidden="true" className="h-4 w-4" />
+                  </span>
+                </span>
+              </button>
               <div className="p-6">
                 <h3 className="font-display text-2xl text-vini-ink">{environment.title}</h3>
                 <p className="mt-3 min-h-24 text-sm leading-7 text-vini-charcoal/72">{environment.description}</p>
@@ -57,6 +82,13 @@ export default function Environments() {
           ))}
         </div>
       </div>
+
+      <EnvironmentIdeasModal
+        environment={selectedEnvironment}
+        activeIndex={activeIdeaIndex}
+        onChangeIndex={setActiveIdeaIndex}
+        onClose={closeIdeas}
+      />
     </section>
   );
 }

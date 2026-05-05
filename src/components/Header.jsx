@@ -1,28 +1,14 @@
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import { ArrowUpRight, Menu, X } from 'lucide-react';
 import { business, logos, navLinks } from '../data/siteData.js';
 import { defaultWhatsAppMessage, whatsappLink } from '../utils/whatsapp.js';
 
 export default function Header() {
   const [isOpen, setIsOpen] = useState(false);
-  const [isScrolled, setIsScrolled] = useState(false);
-
-  useEffect(() => {
-    const onScroll = () => setIsScrolled(window.scrollY > 28);
-    onScroll();
-    window.addEventListener('scroll', onScroll, { passive: true });
-    return () => window.removeEventListener('scroll', onScroll);
-  }, []);
-
-  const solidHeader = isScrolled || isOpen;
 
   return (
     <header
-      className={`fixed left-0 right-0 top-0 z-50 border-b transition duration-300 ${
-        solidHeader
-          ? 'border-vini-bronze/20 bg-vini-ink/95 text-vini-ivory shadow-xl shadow-black/10 backdrop-blur'
-          : 'border-white/10 bg-transparent text-white'
-      }`}
+      className="fixed left-0 right-0 top-0 z-50 border-b border-vini-bronze/20 bg-vini-ink/95 text-vini-ivory shadow-xl shadow-black/10 backdrop-blur transition duration-300"
     >
       <nav
         className="mx-auto flex h-20 max-w-7xl items-center justify-between gap-7 px-5 md:px-8 lg:justify-center"
