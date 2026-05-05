@@ -51,8 +51,8 @@ export const navLinks = [
 ];
 
 export const heroImage = image(
-  'photo-1556911220-bff31c812dba',
-  'Cozinha planejada elegante com marcenaria em tons naturais',
+  'photo-1771371282665-545256b20dca',
+  'Cozinha planejada moderna com armários em madeira e bancada sob medida',
   { width: 2200, height: 1500, position: 'center' },
 );
 
