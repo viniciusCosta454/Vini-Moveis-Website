@@ -16,6 +16,7 @@ export default function Hero() {
         />
         <div className="absolute inset-0 bg-vini-ink/72" />
         <div className="absolute inset-y-0 left-0 w-full bg-vini-ink/18 lg:w-2/3" />
+        <div className="absolute inset-x-0 top-0 h-[68%] bg-gradient-to-b from-vini-ink/76 via-vini-ink/46 to-vini-ink/10" />
         <div className="absolute inset-x-0 bottom-0 h-44 bg-vini-ink/45" />
       </div>
 
