@@ -8,7 +8,7 @@ export default function Header() {
 
   return (
     <header
-      className="fixed left-0 right-0 top-0 z-50 border-b border-vini-bronze/20 bg-vini-ink/95 text-vini-ivory shadow-xl shadow-black/10 backdrop-blur transition duration-300"
+      className="fixed left-0 right-0 top-0 z-50 hidden border-b border-vini-bronze/20 bg-vini-ink/95 text-vini-ivory shadow-xl shadow-black/10 backdrop-blur transition duration-300 lg:block"
     >
       <nav
         className="mx-auto flex h-20 max-w-7xl items-center justify-between gap-7 px-5 md:px-8 lg:justify-center"

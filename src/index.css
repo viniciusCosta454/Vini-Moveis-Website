@@ -20,6 +20,7 @@ body {
   margin: 0;
   background-color: #f5efe5;
   background-image: url("data:image/svg+xml,%3Csvg width='160' height='160' viewBox='0 0 160 160' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 80h160M80 0v160' stroke='%23d8c7b3' stroke-opacity='.18' stroke-width='1'/%3E%3C/svg%3E");
+  overscroll-behavior-y: none;
 }
 
 img {
@@ -40,7 +41,13 @@ textarea {
 }
 
 section[id] {
-  scroll-margin-top: 96px;
+  scroll-margin-top: 88px;
+}
+
+@media (min-width: 1024px) {
+  section[id] {
+    scroll-margin-top: 96px;
+  }
 }
 
 .reveal {

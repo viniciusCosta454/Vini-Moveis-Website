@@ -9,6 +9,8 @@ import Hero from './components/Hero.jsx';
 import Process from './components/Process.jsx';
 import Testimonials from './components/Testimonials.jsx';
 import FloatingWhatsApp from './components/FloatingWhatsApp.jsx';
+import MobileAppNav from './components/MobileAppNav.jsx';
+import MobileAppTopBar from './components/MobileAppTopBar.jsx';
 import { useScrollReveal } from './hooks/useScrollReveal.js';
 
 export default function App() {
@@ -16,8 +18,9 @@ export default function App() {
 
   return (
     <>
+      <MobileAppTopBar />
       <Header />
-      <main>
+      <main className="pb-28 lg:pb-0">
         <Hero />
         <About />
         <Environments />
@@ -27,8 +30,11 @@ export default function App() {
         <CTA />
         <Contact />
       </main>
-      <Footer />
+      <div className="pb-28 lg:pb-0">
+        <Footer />
+      </div>
       <FloatingWhatsApp />
+      <MobileAppNav />
     </>
   );
 }

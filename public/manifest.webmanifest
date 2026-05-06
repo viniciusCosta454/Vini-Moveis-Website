@@ -1,0 +1,19 @@
+{
+  "name": "Vini Móveis Planejados",
+  "short_name": "Vini",
+  "description": "Móveis planejados sob medida em Curitiba com fabricação própria.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#161411",
+  "theme_color": "#161411",
+  "icons": [
+    {
+      "src": "/logos/logo-mark.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
