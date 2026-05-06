@@ -68,7 +68,7 @@ export default function EnvironmentIdeasModal({ environment, activeIndex, onChan
 
   return (
     <div
-      className="fixed inset-0 z-[80] flex items-center justify-center bg-vini-ink/84 px-4 py-5 text-vini-ink backdrop-blur-md sm:px-6"
+      className="fixed inset-0 z-[80] flex items-start justify-center overflow-y-auto bg-vini-ink/84 px-4 py-5 text-vini-ink backdrop-blur-md sm:px-6 lg:items-center"
       role="dialog"
       aria-modal="true"
       aria-labelledby="environment-ideas-title"
@@ -80,7 +80,7 @@ export default function EnvironmentIdeasModal({ environment, activeIndex, onChan
         onClick={onClose}
       />
 
-      <div className="relative z-10 grid max-h-[calc(100svh-2rem)] w-full max-w-6xl overflow-hidden bg-vini-ivory shadow-[0_34px_90px_rgba(0,0,0,0.38)] lg:grid-cols-[minmax(0,1.35fr)_minmax(320px,0.65fr)]">
+      <div className="relative z-10 grid w-full max-w-6xl overflow-hidden bg-vini-ivory shadow-[0_34px_90px_rgba(0,0,0,0.38)] lg:max-h-[calc(100svh-2rem)] lg:grid-cols-[minmax(0,1.35fr)_minmax(320px,0.65fr)]">
         <button
           type="button"
           className="absolute right-4 top-4 z-20 grid h-11 w-11 place-items-center rounded-full border border-white/25 bg-vini-ink/70 text-white shadow-lg shadow-black/20 transition hover:bg-vini-ink focus:outline-none focus-visible:ring-2 focus-visible:ring-white"
@@ -90,8 +90,8 @@ export default function EnvironmentIdeasModal({ environment, activeIndex, onChan
           <X aria-hidden="true" className="h-5 w-5" />
         </button>
 
-        <div className="relative min-h-[320px] bg-vini-ink p-3 sm:p-4 lg:min-h-[620px]">
-          <div className="relative h-full min-h-[320px] overflow-hidden bg-vini-charcoal">
+        <div className="relative min-h-[240px] bg-vini-ink p-3 sm:min-h-[320px] sm:p-4 lg:min-h-[620px]">
+          <div className="relative h-full min-h-[240px] overflow-hidden bg-vini-charcoal sm:min-h-[320px]">
             <OptimizedImage
               image={activeIdea.image}
               sizes="(min-width: 1024px) 62vw, 100vw"
@@ -130,7 +130,7 @@ export default function EnvironmentIdeasModal({ environment, activeIndex, onChan
           </div>
         </div>
 
-        <div className="flex max-h-[calc(100svh-2rem)] flex-col overflow-y-auto p-6 sm:p-8">
+        <div className="flex flex-col p-6 sm:p-8 lg:max-h-[calc(100svh-2rem)] lg:overflow-y-auto">
           <p className="text-xs font-bold uppercase tracking-[0.2em] text-vini-wood">Ideias para</p>
           <h2 id="environment-ideas-title" className="mt-3 font-display text-4xl text-vini-ink">
             {environment.title}
