@@ -72,7 +72,7 @@ export default function Testimonials() {
 
         <div className="reveal mt-12">
           <div
-            className="testimonial-carousel -my-8 overflow-hidden py-8"
+            className="testimonial-carousel -my-16 overflow-hidden py-20"
             data-direction={animationDirection ?? 'idle'}
             data-resetting={isTrackResetting ? 'true' : 'false'}
             aria-live="polite"
