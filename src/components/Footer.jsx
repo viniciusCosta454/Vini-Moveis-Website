@@ -53,6 +53,8 @@ export default function Footer() {
           <div className="mt-6 flex gap-3">
             <a
               href={business.instagram}
+              target="_blank"
+              rel="noreferrer"
               aria-label="Instagram da Vini Móveis Planejados"
               className="grid h-10 w-10 place-items-center rounded-full border border-vini-ink/15 text-vini-charcoal/72 transition hover:border-vini-wood hover:text-vini-wood"
             >
@@ -60,6 +62,8 @@ export default function Footer() {
             </a>
             <a
               href={business.facebook}
+              target="_blank"
+              rel="noreferrer"
               aria-label="Facebook da Vini Móveis Planejados"
               className="grid h-10 w-10 place-items-center rounded-full border border-vini-ink/15 text-vini-charcoal/72 transition hover:border-vini-wood hover:text-vini-wood"
             >

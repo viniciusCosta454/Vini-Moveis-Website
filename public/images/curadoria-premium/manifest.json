@@ -1,0 +1,3490 @@
+{
+  "createdAt": "2026-05-18T14:33:44.508Z",
+  "strategy": "visual curation for Vini Moveis website using Unsplash images with clear commercial-use licensing.",
+  "license": {
+    "name": "Unsplash License",
+    "url": "https://unsplash.com/license",
+    "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+  },
+  "categories": [
+    {
+      "slug": "cozinhas-planejadas",
+      "title": "Cozinhas planejadas",
+      "count": 38,
+      "recommended": [
+        "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-01.jpg",
+        "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-02.jpg",
+        "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-03.jpg",
+        "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-04.jpg",
+        "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-05.jpg"
+      ],
+      "images": [
+        {
+          "fileName": "cozinhas-planejadas-01.jpg",
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-01.jpg",
+          "title": "Cozinhas planejadas 01",
+          "alt": "Cozinha planejada com marcenaria sob medida",
+          "recommended": true,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2700,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-kitchen-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1502005097973-6a7082348e28",
+            "downloadUrl": "https://images.unsplash.com/photo-1502005097973-6a7082348e28?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "cozinhas-planejadas-02.jpg",
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-02.jpg",
+          "title": "Cozinhas planejadas 02",
+          "alt": "Cozinha planejada com marcenaria sob medida",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1013,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-kitchen-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1725257928373-dc6d2ac7b145",
+            "downloadUrl": "https://images.unsplash.com/photo-1725257928373-dc6d2ac7b145?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "cozinhas-planejadas-03.jpg",
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-03.jpg",
+          "title": "Cozinhas planejadas 03",
+          "alt": "Cozinha planejada com marcenaria sob medida",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1200,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-kitchen-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1639405069836-f82aa6dcb900",
+            "downloadUrl": "https://images.unsplash.com/photo-1639405069836-f82aa6dcb900?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "cozinhas-planejadas-04.jpg",
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-04.jpg",
+          "title": "Cozinhas planejadas 04",
+          "alt": "Cozinha planejada com marcenaria sob medida",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1200,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-kitchen-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1512916194211-3f2b7f5f7de3",
+            "downloadUrl": "https://images.unsplash.com/photo-1512916194211-3f2b7f5f7de3?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "cozinhas-planejadas-05.jpg",
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-05.jpg",
+          "title": "Cozinhas planejadas 05",
+          "alt": "Cozinha planejada com marcenaria sob medida",
+          "recommended": true,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2250,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-kitchen-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1663811396777-05505d999151",
+            "downloadUrl": "https://images.unsplash.com/photo-1663811396777-05505d999151?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "cozinhas-planejadas-06.jpg",
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-06.jpg",
+          "title": "Cozinhas planejadas 06",
+          "alt": "Cozinha planejada com marcenaria sob medida",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2250,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-kitchen-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1643949915134-73a4c880f7c7",
+            "downloadUrl": "https://images.unsplash.com/photo-1643949915134-73a4c880f7c7?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "cozinhas-planejadas-07.jpg",
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-07.jpg",
+          "title": "Cozinhas planejadas 07",
+          "alt": "Cozinha planejada com marcenaria sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1464,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-kitchen-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1656402887556-e727ffe1f6d7",
+            "downloadUrl": "https://images.unsplash.com/photo-1656402887556-e727ffe1f6d7?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "cozinhas-planejadas-08.jpg",
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-08.jpg",
+          "title": "Cozinhas planejadas 08",
+          "alt": "Cozinha planejada com marcenaria sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1013,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-kitchen-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1683629357963-adf2b1fa9ad9",
+            "downloadUrl": "https://images.unsplash.com/photo-1683629357963-adf2b1fa9ad9?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "cozinhas-planejadas-09.jpg",
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-09.jpg",
+          "title": "Cozinhas planejadas 09",
+          "alt": "Cozinha planejada com marcenaria sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1013,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-kitchen-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1683629357935-f3f4777ddf41",
+            "downloadUrl": "https://images.unsplash.com/photo-1683629357935-f3f4777ddf41?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "cozinhas-planejadas-10.jpg",
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-10.jpg",
+          "title": "Cozinhas planejadas 10",
+          "alt": "Cozinha planejada com marcenaria sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1012,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-kitchen-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1671197244266-73129c97c096",
+            "downloadUrl": "https://images.unsplash.com/photo-1671197244266-73129c97c096?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "cozinhas-planejadas-11.jpg",
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-11.jpg",
+          "title": "Cozinhas planejadas 11",
+          "alt": "Cozinha planejada com marcenaria sob medida",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2250,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-kitchen-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1663811397261-916af74a9363",
+            "downloadUrl": "https://images.unsplash.com/photo-1663811397261-916af74a9363?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "cozinhas-planejadas-12.jpg",
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-12.jpg",
+          "title": "Cozinhas planejadas 12",
+          "alt": "Cozinha planejada com marcenaria sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1013,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-kitchen-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1644395175647-7fc09bdae7c1",
+            "downloadUrl": "https://images.unsplash.com/photo-1644395175647-7fc09bdae7c1?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "cozinhas-planejadas-13.jpg",
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-13.jpg",
+          "title": "Cozinhas planejadas 13",
+          "alt": "Cozinha planejada com marcenaria sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1200,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-kitchen-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1682662045815-9016c6225dd3",
+            "downloadUrl": "https://images.unsplash.com/photo-1682662045815-9016c6225dd3?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "cozinhas-planejadas-14.jpg",
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-14.jpg",
+          "title": "Cozinhas planejadas 14",
+          "alt": "Cozinha planejada com marcenaria sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1200,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-kitchen-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1633119713175-c53c29479984",
+            "downloadUrl": "https://images.unsplash.com/photo-1633119713175-c53c29479984?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "cozinhas-planejadas-15.jpg",
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-15.jpg",
+          "title": "Cozinhas planejadas 15",
+          "alt": "Cozinha planejada com marcenaria sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1013,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-kitchen-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1744094064448-3bfaac32eaa6",
+            "downloadUrl": "https://images.unsplash.com/photo-1744094064448-3bfaac32eaa6?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "cozinhas-planejadas-21.jpg",
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-16.jpg",
+          "title": "Cozinhas planejadas 21",
+          "alt": "Cozinha planejada com marcenaria sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1200,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/high-end-kitchen-cabinetry?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1631048498692-af6262577031",
+            "downloadUrl": "https://images.unsplash.com/photo-1631048498692-af6262577031?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "cozinhas-planejadas-22.jpg",
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-17.jpg",
+          "title": "Cozinhas planejadas 22",
+          "alt": "Cozinha planejada com marcenaria sob medida",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2400,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/high-end-kitchen-cabinetry?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1610733374054-59454fe657cd",
+            "downloadUrl": "https://images.unsplash.com/photo-1610733374054-59454fe657cd?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "cozinhas-planejadas-23.jpg",
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-18.jpg",
+          "title": "Cozinhas planejadas 23",
+          "alt": "Cozinha planejada com marcenaria sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1200,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/high-end-kitchen-cabinetry?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1631048835473-73c7aaf86096",
+            "downloadUrl": "https://images.unsplash.com/photo-1631048835473-73c7aaf86096?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "cozinhas-planejadas-24.jpg",
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-19.jpg",
+          "title": "Cozinhas planejadas 24",
+          "alt": "Cozinha planejada com marcenaria sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1200,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/high-end-kitchen-cabinetry?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1682888818620-94875adf5bb9",
+            "downloadUrl": "https://images.unsplash.com/photo-1682888818620-94875adf5bb9?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "cozinhas-planejadas-25.jpg",
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-20.jpg",
+          "title": "Cozinhas planejadas 25",
+          "alt": "Cozinha planejada com marcenaria sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1200,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/high-end-kitchen-cabinetry?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1687942918532-69295473701d",
+            "downloadUrl": "https://images.unsplash.com/photo-1687942918532-69295473701d?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-21.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Cozinha planejada com móveis sob medida",
+          "originalFile": "/images/ambientes/cozinhas/cozinhas-01.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-22.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Cozinha planejada com móveis sob medida",
+          "originalFile": "/images/ambientes/cozinhas/cozinhas-02.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-23.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Cozinha planejada com móveis sob medida",
+          "originalFile": "/images/ambientes/cozinhas/cozinhas-03.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-24.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Cozinha planejada com móveis sob medida",
+          "originalFile": "/images/ambientes/cozinhas/cozinhas-04.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-25.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Cozinha planejada com móveis sob medida",
+          "originalFile": "/images/ambientes/cozinhas/cozinhas-05.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-26.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Cozinha planejada com móveis sob medida",
+          "originalFile": "/images/ambientes/cozinhas/cozinhas-06.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-27.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Cozinha planejada com móveis sob medida",
+          "originalFile": "/images/ambientes/cozinhas/cozinhas-07.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-28.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Cozinha planejada com móveis sob medida",
+          "originalFile": "/images/ambientes/cozinhas/cozinhas-08.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-29.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Cozinha planejada com móveis sob medida",
+          "originalFile": "/images/ambientes/cozinhas/cozinhas-09.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-30.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Cozinha planejada com móveis sob medida",
+          "originalFile": "/images/ambientes/cozinhas/cozinhas-10.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-31.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Cozinha planejada com móveis sob medida",
+          "originalFile": "/images/ambientes/cozinhas/cozinhas-11.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-32.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Cozinha planejada com móveis sob medida",
+          "originalFile": "/images/ambientes/cozinhas/cozinhas-12.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-33.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Cozinha planejada com móveis sob medida",
+          "originalFile": "/images/ambientes/cozinhas/cozinhas-13.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-34.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Cozinha planejada com móveis sob medida",
+          "originalFile": "/images/ambientes/cozinhas/cozinhas-14.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-35.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Cozinha planejada com móveis sob medida",
+          "originalFile": "/images/ambientes/cozinhas/cozinhas-15.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-36.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Cozinha planejada com móveis sob medida",
+          "originalFile": "/images/ambientes/cozinhas/cozinhas-16.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-37.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Cozinha planejada com móveis sob medida",
+          "originalFile": "/images/ambientes/cozinhas/cozinhas-17.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/cozinhas-planejadas/cozinhas-planejadas-38.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Cozinha planejada com móveis sob medida",
+          "originalFile": "/images/ambientes/cozinhas/cozinhas-18.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "dormitorios-planejados",
+      "title": "Dormitórios planejados",
+      "count": 30,
+      "recommended": [
+        "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-01.jpg",
+        "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-02.jpg",
+        "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-03.jpg",
+        "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-04.jpg",
+        "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-05.jpg"
+      ],
+      "images": [
+        {
+          "fileName": "dormitorios-planejados-01.jpg",
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-01.jpg",
+          "title": "Dormitórios planejados 01",
+          "alt": "Dormitório planejado com móveis sob medida",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1350,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-bedroom-wardrobe?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1631889993877-71e193bf79b8",
+            "downloadUrl": "https://images.unsplash.com/photo-1631889993877-71e193bf79b8?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "dormitorios-planejados-02.jpg",
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-02.jpg",
+          "title": "Dormitórios planejados 02",
+          "alt": "Dormitório planejado com móveis sob medida",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1013,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-bedroom-wardrobe?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1678978866819-306ed8608e7f",
+            "downloadUrl": "https://images.unsplash.com/photo-1678978866819-306ed8608e7f?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "dormitorios-planejados-03.jpg",
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-03.jpg",
+          "title": "Dormitórios planejados 03",
+          "alt": "Dormitório planejado com móveis sob medida",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1350,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-bedroom-wardrobe?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1774161321754-439bd8613f56",
+            "downloadUrl": "https://images.unsplash.com/photo-1774161321754-439bd8613f56?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "dormitorios-planejados-04.jpg",
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-04.jpg",
+          "title": "Dormitórios planejados 04",
+          "alt": "Dormitório planejado com móveis sob medida",
+          "recommended": true,
+          "orientation": "square",
+          "dimensions": {
+            "height": 1800,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-bedroom-wardrobe?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1765862835319-18fb6f8caff6",
+            "downloadUrl": "https://images.unsplash.com/photo-1765862835319-18fb6f8caff6?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "dormitorios-planejados-05.jpg",
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-05.jpg",
+          "title": "Dormitórios planejados 05",
+          "alt": "Dormitório planejado com móveis sob medida",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 930,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-bedroom-wardrobe?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1765434670070-c0ec576eebf3",
+            "downloadUrl": "https://images.unsplash.com/photo-1765434670070-c0ec576eebf3?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "dormitorios-planejados-06.jpg",
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-06.jpg",
+          "title": "Dormitórios planejados 06",
+          "alt": "Dormitório planejado com móveis sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1013,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-bedroom-wardrobe?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1765279333918-949ddcb655ba",
+            "downloadUrl": "https://images.unsplash.com/photo-1765279333918-949ddcb655ba?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "dormitorios-planejados-07.jpg",
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-07.jpg",
+          "title": "Dormitórios planejados 07",
+          "alt": "Dormitório planejado com móveis sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 930,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-bedroom-wardrobe?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1765434669989-10e45046085c",
+            "downloadUrl": "https://images.unsplash.com/photo-1765434669989-10e45046085c?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "dormitorios-planejados-08.jpg",
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-08.jpg",
+          "title": "Dormitórios planejados 08",
+          "alt": "Dormitório planejado com móveis sob medida",
+          "recommended": false,
+          "orientation": "square",
+          "dimensions": {
+            "height": 1800,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-bedroom-wardrobe?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1778681735642-e13f83b35776",
+            "downloadUrl": "https://images.unsplash.com/photo-1778681735642-e13f83b35776?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "dormitorios-planejados-09.jpg",
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-09.jpg",
+          "title": "Dormitórios planejados 09",
+          "alt": "Dormitório planejado com móveis sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 930,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-bedroom-wardrobe?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1765434670017-c0d28ecde29a",
+            "downloadUrl": "https://images.unsplash.com/photo-1765434670017-c0d28ecde29a?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "dormitorios-planejados-10.jpg",
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-10.jpg",
+          "title": "Dormitórios planejados 10",
+          "alt": "Dormitório planejado com móveis sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1202,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-bedroom-wardrobe?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1760072513393-b9d81f65dd7e",
+            "downloadUrl": "https://images.unsplash.com/photo-1760072513393-b9d81f65dd7e?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "dormitorios-planejados-11.jpg",
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-11.jpg",
+          "title": "Dormitórios planejados 11",
+          "alt": "Dormitório planejado com móveis sob medida",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2250,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-bedroom-wardrobe?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1776510991868-86ccfa4cf661",
+            "downloadUrl": "https://images.unsplash.com/photo-1776510991868-86ccfa4cf661?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "dormitorios-planejados-12.jpg",
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-12.jpg",
+          "title": "Dormitórios planejados 12",
+          "alt": "Dormitório planejado com móveis sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 930,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-bedroom-wardrobe?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1765434669956-afcd50058d69",
+            "downloadUrl": "https://images.unsplash.com/photo-1765434669956-afcd50058d69?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "dormitorios-planejados-13.jpg",
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-13.jpg",
+          "title": "Dormitórios planejados 13",
+          "alt": "Dormitório planejado com móveis sob medida",
+          "recommended": false,
+          "orientation": "square",
+          "dimensions": {
+            "height": 1800,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-bedroom-wardrobe?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1765862835260-47843a7bba45",
+            "downloadUrl": "https://images.unsplash.com/photo-1765862835260-47843a7bba45?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "dormitorios-planejados-14.jpg",
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-14.jpg",
+          "title": "Dormitórios planejados 14",
+          "alt": "Dormitório planejado com móveis sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1013,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-bedroom-wardrobe?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1778313878852-1bbe70eae16b",
+            "downloadUrl": "https://images.unsplash.com/photo-1778313878852-1bbe70eae16b?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "dormitorios-planejados-15.jpg",
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-15.jpg",
+          "title": "Dormitórios planejados 15",
+          "alt": "Dormitório planejado com móveis sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1200,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-modern-bedroom-wardrobe?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1759264244764-2cb80f1a67bd",
+            "downloadUrl": "https://images.unsplash.com/photo-1759264244764-2cb80f1a67bd?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "dormitorios-planejados-20.jpg",
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-16.jpg",
+          "title": "Dormitórios planejados 20",
+          "alt": "Dormitório planejado com móveis sob medida",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2250,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/modern-bedroom-interior-wardrobe?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1663811397207-418a92396ad5",
+            "downloadUrl": "https://images.unsplash.com/photo-1663811397207-418a92396ad5?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "dormitorios-planejados-21.jpg",
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-17.jpg",
+          "title": "Dormitórios planejados 21",
+          "alt": "Dormitório planejado com móveis sob medida",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2250,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/modern-bedroom-interior-wardrobe?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1663811397007-010e535ffcd7",
+            "downloadUrl": "https://images.unsplash.com/photo-1663811397007-010e535ffcd7?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "dormitorios-planejados-23.jpg",
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-18.jpg",
+          "title": "Dormitórios planejados 23",
+          "alt": "Dormitório planejado com móveis sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1575,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/modern-bedroom-interior-wardrobe?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1719218402721-34c807ed2d6d",
+            "downloadUrl": "https://images.unsplash.com/photo-1719218402721-34c807ed2d6d?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "dormitorios-planejados-24.jpg",
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-19.jpg",
+          "title": "Dormitórios planejados 24",
+          "alt": "Dormitório planejado com móveis sob medida",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2700,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/modern-bedroom-interior-wardrobe?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1769690398694-9c5d5ca4b4ea",
+            "downloadUrl": "https://images.unsplash.com/photo-1769690398694-9c5d5ca4b4ea?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "dormitorios-planejados-25.jpg",
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-20.jpg",
+          "title": "Dormitórios planejados 25",
+          "alt": "Dormitório planejado com móveis sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1013,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/modern-bedroom-interior-wardrobe?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1777880305920-e542f575f4e9",
+            "downloadUrl": "https://images.unsplash.com/photo-1777880305920-e542f575f4e9?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-21.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Dormitório planejado com móveis sob medida",
+          "originalFile": "/images/ambientes/dormitorios/dormitorios-01.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-22.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Dormitório planejado com móveis sob medida",
+          "originalFile": "/images/ambientes/dormitorios/dormitorios-02.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-23.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Dormitório planejado com móveis sob medida",
+          "originalFile": "/images/ambientes/dormitorios/dormitorios-03.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-24.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Dormitório planejado com móveis sob medida",
+          "originalFile": "/images/ambientes/dormitorios/dormitorios-04.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-25.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Dormitório planejado com móveis sob medida",
+          "originalFile": "/images/ambientes/dormitorios/dormitorios-05.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-26.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Dormitório planejado com móveis sob medida",
+          "originalFile": "/images/ambientes/dormitorios/dormitorios-06.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-27.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Dormitório planejado com móveis sob medida",
+          "originalFile": "/images/ambientes/dormitorios/dormitorios-07.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-28.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Dormitório planejado com móveis sob medida",
+          "originalFile": "/images/ambientes/dormitorios/dormitorios-08.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-29.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Dormitório planejado com móveis sob medida",
+          "originalFile": "/images/ambientes/dormitorios/dormitorios-09.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/dormitorios-planejados/dormitorios-planejados-30.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Dormitório planejado com móveis sob medida",
+          "originalFile": "/images/ambientes/dormitorios/dormitorios-10.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "closets",
+      "title": "Closets",
+      "count": 19,
+      "recommended": [
+        "/images/curadoria-premium/closets/closets-01.jpg",
+        "/images/curadoria-premium/closets/closets-02.jpg",
+        "/images/curadoria-premium/closets/closets-03.jpg",
+        "/images/curadoria-premium/closets/closets-04.jpg",
+        "/images/curadoria-premium/closets/closets-05.jpg"
+      ],
+      "images": [
+        {
+          "fileName": "closets-01.jpg",
+          "path": "/images/curadoria-premium/closets/closets-01.jpg",
+          "title": "Closets 01",
+          "alt": "Closet com armários planejados",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1378,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-walk-in-closet?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1649361811423-a55616f7ab11",
+            "downloadUrl": "https://images.unsplash.com/photo-1649361811423-a55616f7ab11?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "closets-02.jpg",
+          "path": "/images/curadoria-premium/closets/closets-02.jpg",
+          "title": "Closets 02",
+          "alt": "Closet com armários planejados",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1196,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-walk-in-closet?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1618236444721-4a8dba415c15",
+            "downloadUrl": "https://images.unsplash.com/photo-1618236444721-4a8dba415c15?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "closets-03.jpg",
+          "path": "/images/curadoria-premium/closets/closets-03.jpg",
+          "title": "Closets 03",
+          "alt": "Closet com armários planejados",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1799,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-walk-in-closet?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1708397016786-8916880649b8",
+            "downloadUrl": "https://images.unsplash.com/photo-1708397016786-8916880649b8?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "closets-04.jpg",
+          "path": "/images/curadoria-premium/closets/closets-04.jpg",
+          "title": "Closets 04",
+          "alt": "Closet com armários planejados",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1198,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-walk-in-closet?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1611048268330-53de574cae3b",
+            "downloadUrl": "https://images.unsplash.com/photo-1611048268330-53de574cae3b?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "closets-05.jpg",
+          "path": "/images/curadoria-premium/closets/closets-05.jpg",
+          "title": "Closets 05",
+          "alt": "Closet com armários planejados",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1200,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-walk-in-closet?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1640357154220-9775b0f31dec",
+            "downloadUrl": "https://images.unsplash.com/photo-1640357154220-9775b0f31dec?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "closets-06.jpg",
+          "path": "/images/curadoria-premium/closets/closets-06.jpg",
+          "title": "Closets 06",
+          "alt": "Closet com armários planejados",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2700,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-walk-in-closet?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1687953413905-731f620177ae",
+            "downloadUrl": "https://images.unsplash.com/photo-1687953413905-731f620177ae?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "closets-07.jpg",
+          "path": "/images/curadoria-premium/closets/closets-07.jpg",
+          "title": "Closets 07",
+          "alt": "Closet com armários planejados",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2700,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-walk-in-closet?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1530411554903-7e745b9f1f6d",
+            "downloadUrl": "https://images.unsplash.com/photo-1530411554903-7e745b9f1f6d?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "closets-08.jpg",
+          "path": "/images/curadoria-premium/closets/closets-08.jpg",
+          "title": "Closets 08",
+          "alt": "Closet com armários planejados",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1125,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-walk-in-closet?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1631067128698-2f4f8ce87e28",
+            "downloadUrl": "https://images.unsplash.com/photo-1631067128698-2f4f8ce87e28?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "closets-09.jpg",
+          "path": "/images/curadoria-premium/closets/closets-09.jpg",
+          "title": "Closets 09",
+          "alt": "Closet com armários planejados",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1277,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-walk-in-closet?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1662454419622-a41092ecd245",
+            "downloadUrl": "https://images.unsplash.com/photo-1662454419622-a41092ecd245?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "closets-11.jpg",
+          "path": "/images/curadoria-premium/closets/closets-10.jpg",
+          "title": "Closets 11",
+          "alt": "Closet com armários planejados",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1013,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-walk-in-closet?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1774301211236-dab64d553241",
+            "downloadUrl": "https://images.unsplash.com/photo-1774301211236-dab64d553241?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "closets-12.jpg",
+          "path": "/images/curadoria-premium/closets/closets-11.jpg",
+          "title": "Closets 12",
+          "alt": "Closet com armários planejados",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2700,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-walk-in-closet?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1778731660303-1fa5ede75477",
+            "downloadUrl": "https://images.unsplash.com/photo-1778731660303-1fa5ede75477?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "closets-21.jpg",
+          "path": "/images/curadoria-premium/closets/closets-12.jpg",
+          "title": "Closets 21",
+          "alt": "Closet com armários planejados",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1350,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/modern-walk-in-wardrobe?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1672137233327-37b0c1049e77",
+            "downloadUrl": "https://images.unsplash.com/photo-1672137233327-37b0c1049e77?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "closets-22.jpg",
+          "path": "/images/curadoria-premium/closets/closets-13.jpg",
+          "title": "Closets 22",
+          "alt": "Closet com armários planejados",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2700,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/modern-walk-in-wardrobe?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1722942626414-5775702d7a08",
+            "downloadUrl": "https://images.unsplash.com/photo-1722942626414-5775702d7a08?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "closets-23.jpg",
+          "path": "/images/curadoria-premium/closets/closets-14.jpg",
+          "title": "Closets 23",
+          "alt": "Closet com armários planejados",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1200,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/modern-walk-in-wardrobe?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1721742604452-87a1daf6f5c4",
+            "downloadUrl": "https://images.unsplash.com/photo-1721742604452-87a1daf6f5c4?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "closets-24.jpg",
+          "path": "/images/curadoria-premium/closets/closets-15.jpg",
+          "title": "Closets 24",
+          "alt": "Closet com armários planejados",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2700,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/modern-walk-in-wardrobe?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1721739224993-f6fcdec51d1d",
+            "downloadUrl": "https://images.unsplash.com/photo-1721739224993-f6fcdec51d1d?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "path": "/images/curadoria-premium/closets/closets-16.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Closet com armários planejados",
+          "originalFile": "/images/ambientes/closets/closets-01.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/closets/closets-17.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Closet com armários planejados",
+          "originalFile": "/images/ambientes/closets/closets-02.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/closets/closets-18.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Closet com armários planejados",
+          "originalFile": "/images/ambientes/closets/closets-03.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/closets/closets-19.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Closet com armários planejados",
+          "originalFile": "/images/ambientes/closets/closets-04.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "banheiros-planejados",
+      "title": "Banheiros planejados",
+      "count": 32,
+      "recommended": [
+        "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-01.jpg",
+        "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-02.jpg",
+        "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-03.jpg",
+        "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-04.jpg",
+        "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-05.jpg"
+      ],
+      "images": [
+        {
+          "fileName": "banheiros-planejados-01.jpg",
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-01.jpg",
+          "title": "Banheiros planejados 01",
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "recommended": true,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 3000,
+            "width": 1799
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-bathroom-vanity?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1576698483491-8c43f0862543",
+            "downloadUrl": "https://images.unsplash.com/photo-1576698483491-8c43f0862543?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "banheiros-planejados-02.jpg",
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-02.jpg",
+          "title": "Banheiros planejados 02",
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1200,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-bathroom-vanity?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1572742482459-e04d6cfdd6f3",
+            "downloadUrl": "https://images.unsplash.com/photo-1572742482459-e04d6cfdd6f3?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "banheiros-planejados-03.jpg",
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-03.jpg",
+          "title": "Banheiros planejados 03",
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1200,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-bathroom-vanity?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1682888818696-906287d759f5",
+            "downloadUrl": "https://images.unsplash.com/photo-1682888818696-906287d759f5?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "banheiros-planejados-04.jpg",
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-04.jpg",
+          "title": "Banheiros planejados 04",
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1200,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-bathroom-vanity?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1564540579594-0930edb6de43",
+            "downloadUrl": "https://images.unsplash.com/photo-1564540579594-0930edb6de43?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "banheiros-planejados-06.jpg",
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-05.jpg",
+          "title": "Banheiros planejados 06",
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2250,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-bathroom-vanity?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1663811396038-7a21d4eef49e",
+            "downloadUrl": "https://images.unsplash.com/photo-1663811396038-7a21d4eef49e?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "banheiros-planejados-07.jpg",
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-06.jpg",
+          "title": "Banheiros planejados 07",
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1200,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-bathroom-vanity?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1722858812731-d96eceb10f52",
+            "downloadUrl": "https://images.unsplash.com/photo-1722858812731-d96eceb10f52?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "banheiros-planejados-08.jpg",
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-07.jpg",
+          "title": "Banheiros planejados 08",
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2250,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-bathroom-vanity?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1663811397133-2d1f5addd9d5",
+            "downloadUrl": "https://images.unsplash.com/photo-1663811397133-2d1f5addd9d5?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "banheiros-planejados-09.jpg",
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-08.jpg",
+          "title": "Banheiros planejados 09",
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2700,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-bathroom-vanity?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1594873672629-61079318a5fd",
+            "downloadUrl": "https://images.unsplash.com/photo-1594873672629-61079318a5fd?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "banheiros-planejados-11.jpg",
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-09.jpg",
+          "title": "Banheiros planejados 11",
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1013,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-bathroom-vanity?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1667550109459-7251955bced4",
+            "downloadUrl": "https://images.unsplash.com/photo-1667550109459-7251955bced4?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "banheiros-planejados-12.jpg",
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-10.jpg",
+          "title": "Banheiros planejados 12",
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1200,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-bathroom-vanity?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1613849925580-8ef3bc1cf219",
+            "downloadUrl": "https://images.unsplash.com/photo-1613849925580-8ef3bc1cf219?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "banheiros-planejados-13.jpg",
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-11.jpg",
+          "title": "Banheiros planejados 13",
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1199,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-bathroom-vanity?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1634320611782-e7589d174453",
+            "downloadUrl": "https://images.unsplash.com/photo-1634320611782-e7589d174453?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "banheiros-planejados-14.jpg",
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-12.jpg",
+          "title": "Banheiros planejados 14",
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1200,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-bathroom-vanity?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1763485957127-5645e9348426",
+            "downloadUrl": "https://images.unsplash.com/photo-1763485957127-5645e9348426?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "banheiros-planejados-20.jpg",
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-13.jpg",
+          "title": "Banheiros planejados 20",
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1013,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/modern-bathroom-interior-marble?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1667550177753-52b318cd4d40",
+            "downloadUrl": "https://images.unsplash.com/photo-1667550177753-52b318cd4d40?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "banheiros-planejados-21.jpg",
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-14.jpg",
+          "title": "Banheiros planejados 21",
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "recommended": false,
+          "orientation": "square",
+          "dimensions": {
+            "height": 1800,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/modern-bathroom-interior-marble?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1744025098626-66c0b9cb1ba8",
+            "downloadUrl": "https://images.unsplash.com/photo-1744025098626-66c0b9cb1ba8?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "banheiros-planejados-22.jpg",
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-15.jpg",
+          "title": "Banheiros planejados 22",
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2700,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/modern-bathroom-interior-marble?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1610178167104-488495443e01",
+            "downloadUrl": "https://images.unsplash.com/photo-1610178167104-488495443e01?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "banheiros-planejados-23.jpg",
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-16.jpg",
+          "title": "Banheiros planejados 23",
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1013,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/modern-bathroom-interior-marble?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1667550177726-96da7c257853",
+            "downloadUrl": "https://images.unsplash.com/photo-1667550177726-96da7c257853?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "banheiros-planejados-24.jpg",
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-17.jpg",
+          "title": "Banheiros planejados 24",
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2100,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/modern-bathroom-interior-marble?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1756079664354-34944e001f6d",
+            "downloadUrl": "https://images.unsplash.com/photo-1756079664354-34944e001f6d?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "banheiros-planejados-25.jpg",
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-18.jpg",
+          "title": "Banheiros planejados 25",
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2400,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/modern-bathroom-interior-marble?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1750036015902-c6f5ebca924e",
+            "downloadUrl": "https://images.unsplash.com/photo-1750036015902-c6f5ebca924e?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-19.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "originalFile": "/images/ambientes/banheiros-lavabos/banheiros-lavabos-01.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-20.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "originalFile": "/images/ambientes/banheiros-lavabos/banheiros-lavabos-02.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-21.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "originalFile": "/images/ambientes/banheiros-lavabos/banheiros-lavabos-03.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-22.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "originalFile": "/images/ambientes/banheiros-lavabos/banheiros-lavabos-04.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-23.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "originalFile": "/images/ambientes/banheiros-lavabos/banheiros-lavabos-05.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-24.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "originalFile": "/images/ambientes/banheiros-lavabos/banheiros-lavabos-06.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-25.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "originalFile": "/images/ambientes/banheiros-lavabos/banheiros-lavabos-07.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-26.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "originalFile": "/images/ambientes/banheiros-lavabos/banheiros-lavabos-08.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-27.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "originalFile": "/images/ambientes/banheiros-lavabos/banheiros-lavabos-09.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-28.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "originalFile": "/images/ambientes/banheiros-lavabos/banheiros-lavabos-10.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-29.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "originalFile": "/images/ambientes/banheiros-lavabos/banheiros-lavabos-11.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-30.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "originalFile": "/images/ambientes/banheiros-lavabos/banheiros-lavabos-12.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-31.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "originalFile": "/images/ambientes/banheiros-lavabos/banheiros-lavabos-13.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/banheiros-planejados/banheiros-planejados-32.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Banheiro planejado com gabinete sob medida",
+          "originalFile": "/images/ambientes/banheiros-lavabos/banheiros-lavabos-14.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "salas-de-estar",
+      "title": "Salas de estar",
+      "count": 15,
+      "recommended": [
+        "/images/curadoria-premium/salas-de-estar/salas-de-estar-01.jpg",
+        "/images/curadoria-premium/salas-de-estar/salas-de-estar-02.jpg",
+        "/images/curadoria-premium/salas-de-estar/salas-de-estar-03.jpg",
+        "/images/curadoria-premium/salas-de-estar/salas-de-estar-04.jpg",
+        "/images/curadoria-premium/salas-de-estar/salas-de-estar-05.jpg"
+      ],
+      "images": [
+        {
+          "fileName": "salas-de-estar-01.jpg",
+          "path": "/images/curadoria-premium/salas-de-estar/salas-de-estar-01.jpg",
+          "title": "Salas de estar 01",
+          "alt": "Sala de estar com marcenaria integrada",
+          "recommended": true,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2700,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-living-room-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1564078516393-cf04bd966897",
+            "downloadUrl": "https://images.unsplash.com/photo-1564078516393-cf04bd966897?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "salas-de-estar-02.jpg",
+          "path": "/images/curadoria-premium/salas-de-estar/salas-de-estar-02.jpg",
+          "title": "Salas de estar 02",
+          "alt": "Sala de estar com marcenaria integrada",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1200,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-living-room-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1704040686413-2c607dbd2f06",
+            "downloadUrl": "https://images.unsplash.com/photo-1704040686413-2c607dbd2f06?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "salas-de-estar-03.jpg",
+          "path": "/images/curadoria-premium/salas-de-estar/salas-de-estar-03.jpg",
+          "title": "Salas de estar 03",
+          "alt": "Sala de estar com marcenaria integrada",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1200,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-living-room-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1704040686428-7534b262d0d8",
+            "downloadUrl": "https://images.unsplash.com/photo-1704040686428-7534b262d0d8?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "salas-de-estar-04.jpg",
+          "path": "/images/curadoria-premium/salas-de-estar/salas-de-estar-04.jpg",
+          "title": "Salas de estar 04",
+          "alt": "Sala de estar com marcenaria integrada",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1000,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-living-room-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1705326701287-346fc37a2c86",
+            "downloadUrl": "https://images.unsplash.com/photo-1705326701287-346fc37a2c86?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "salas-de-estar-05.jpg",
+          "path": "/images/curadoria-premium/salas-de-estar/salas-de-estar-05.jpg",
+          "title": "Salas de estar 05",
+          "alt": "Sala de estar com marcenaria integrada",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1378,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-living-room-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1648881806148-e5c51179c826",
+            "downloadUrl": "https://images.unsplash.com/photo-1648881806148-e5c51179c826?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "salas-de-estar-06.jpg",
+          "path": "/images/curadoria-premium/salas-de-estar/salas-de-estar-06.jpg",
+          "title": "Salas de estar 06",
+          "alt": "Sala de estar com marcenaria integrada",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2678,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-living-room-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1688647063090-36f36f692d95",
+            "downloadUrl": "https://images.unsplash.com/photo-1688647063090-36f36f692d95?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "salas-de-estar-07.jpg",
+          "path": "/images/curadoria-premium/salas-de-estar/salas-de-estar-07.jpg",
+          "title": "Salas de estar 07",
+          "alt": "Sala de estar com marcenaria integrada",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1125,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-living-room-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1720247520862-7e4b14176fa8",
+            "downloadUrl": "https://images.unsplash.com/photo-1720247520862-7e4b14176fa8?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "salas-de-estar-08.jpg",
+          "path": "/images/curadoria-premium/salas-de-estar/salas-de-estar-08.jpg",
+          "title": "Salas de estar 08",
+          "alt": "Sala de estar com marcenaria integrada",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1125,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-living-room-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1720247520881-672bc136da8a",
+            "downloadUrl": "https://images.unsplash.com/photo-1720247520881-672bc136da8a?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "salas-de-estar-09.jpg",
+          "path": "/images/curadoria-premium/salas-de-estar/salas-de-estar-09.jpg",
+          "title": "Salas de estar 09",
+          "alt": "Sala de estar com marcenaria integrada",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 932,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-living-room-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1745301558339-44eb3217d5da",
+            "downloadUrl": "https://images.unsplash.com/photo-1745301558339-44eb3217d5da?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "salas-de-estar-10.jpg",
+          "path": "/images/curadoria-premium/salas-de-estar/salas-de-estar-10.jpg",
+          "title": "Salas de estar 10",
+          "alt": "Sala de estar com marcenaria integrada",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1200,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-living-room-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1611094016919-36b65678f3d6",
+            "downloadUrl": "https://images.unsplash.com/photo-1611094016919-36b65678f3d6?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "salas-de-estar-11.jpg",
+          "path": "/images/curadoria-premium/salas-de-estar/salas-de-estar-11.jpg",
+          "title": "Salas de estar 11",
+          "alt": "Sala de estar com marcenaria integrada",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1200,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-living-room-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1612965607446-25e1332775ae",
+            "downloadUrl": "https://images.unsplash.com/photo-1612965607446-25e1332775ae?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "salas-de-estar-14.jpg",
+          "path": "/images/curadoria-premium/salas-de-estar/salas-de-estar-12.jpg",
+          "title": "Salas de estar 14",
+          "alt": "Sala de estar com marcenaria integrada",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1200,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-living-room-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1639663742190-1b3dba2eebcf",
+            "downloadUrl": "https://images.unsplash.com/photo-1639663742190-1b3dba2eebcf?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "salas-de-estar-15.jpg",
+          "path": "/images/curadoria-premium/salas-de-estar/salas-de-estar-13.jpg",
+          "title": "Salas de estar 15",
+          "alt": "Sala de estar com marcenaria integrada",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1200,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-living-room-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1638885930125-85350348d266",
+            "downloadUrl": "https://images.unsplash.com/photo-1638885930125-85350348d266?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "salas-de-estar-21.jpg",
+          "path": "/images/curadoria-premium/salas-de-estar/salas-de-estar-14.jpg",
+          "title": "Salas de estar 21",
+          "alt": "Sala de estar com marcenaria integrada",
+          "recommended": false,
+          "orientation": "square",
+          "dimensions": {
+            "height": 1800,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/modern-living-room-wood-panel?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1701422052139-e72ee5e67249",
+            "downloadUrl": "https://images.unsplash.com/photo-1701422052139-e72ee5e67249?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "salas-de-estar-25.jpg",
+          "path": "/images/curadoria-premium/salas-de-estar/salas-de-estar-15.jpg",
+          "title": "Salas de estar 25",
+          "alt": "Sala de estar com marcenaria integrada",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2442,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/modern-living-room-wood-panel?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1768578927442-24a68408c0c7",
+            "downloadUrl": "https://images.unsplash.com/photo-1768578927442-24a68408c0c7?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "home-office",
+      "title": "Home office",
+      "count": 7,
+      "recommended": [
+        "/images/curadoria-premium/home-office/home-office-01.jpg",
+        "/images/curadoria-premium/home-office/home-office-02.jpg",
+        "/images/curadoria-premium/home-office/home-office-03.jpg",
+        "/images/curadoria-premium/home-office/home-office-04.jpg",
+        "/images/curadoria-premium/home-office/home-office-05.jpg"
+      ],
+      "images": [
+        {
+          "fileName": "home-office-05.jpg",
+          "path": "/images/curadoria-premium/home-office/home-office-01.jpg",
+          "title": "Home office 05",
+          "alt": "Home office com bancada e armários planejados",
+          "recommended": true,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2250,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-home-office-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1737233030536-247c1379d82c",
+            "downloadUrl": "https://images.unsplash.com/photo-1737233030536-247c1379d82c?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "home-office-06.jpg",
+          "path": "/images/curadoria-premium/home-office/home-office-02.jpg",
+          "title": "Home office 06",
+          "alt": "Home office com bancada e armários planejados",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2250,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-home-office-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1737233433647-b53b339306f4",
+            "downloadUrl": "https://images.unsplash.com/photo-1737233433647-b53b339306f4?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "home-office-12.jpg",
+          "path": "/images/curadoria-premium/home-office/home-office-03.jpg",
+          "title": "Home office 12",
+          "alt": "Home office com bancada e armários planejados",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2250,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-home-office-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1737233504527-c5033f0f1430",
+            "downloadUrl": "https://images.unsplash.com/photo-1737233504527-c5033f0f1430?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "home-office-13.jpg",
+          "path": "/images/curadoria-premium/home-office/home-office-04.jpg",
+          "title": "Home office 13",
+          "alt": "Home office com bancada e armários planejados",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2250,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-home-office-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1738168266307-1d1515cbca2b",
+            "downloadUrl": "https://images.unsplash.com/photo-1738168266307-1d1515cbca2b?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "home-office-14.jpg",
+          "path": "/images/curadoria-premium/home-office/home-office-05.jpg",
+          "title": "Home office 14",
+          "alt": "Home office com bancada e armários planejados",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2250,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-home-office-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1737233347389-24bc3f3fe3a1",
+            "downloadUrl": "https://images.unsplash.com/photo-1737233347389-24bc3f3fe3a1?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "home-office-24.jpg",
+          "path": "/images/curadoria-premium/home-office/home-office-06.jpg",
+          "title": "Home office 24",
+          "alt": "Home office com bancada e armários planejados",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2442,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/modern-home-office-shelves?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1772475385509-93fd87a2d4ba",
+            "downloadUrl": "https://images.unsplash.com/photo-1772475385509-93fd87a2d4ba?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "home-office-25.jpg",
+          "path": "/images/curadoria-premium/home-office/home-office-07.jpg",
+          "title": "Home office 25",
+          "alt": "Home office com bancada e armários planejados",
+          "recommended": false,
+          "orientation": "square",
+          "dimensions": {
+            "height": 1800,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/modern-home-office-shelves?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1764743111075-fb988af9ed75",
+            "downloadUrl": "https://images.unsplash.com/photo-1764743111075-fb988af9ed75?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "lavanderias-planejadas",
+      "title": "Lavanderias planejadas",
+      "count": 8,
+      "recommended": [
+        "/images/curadoria-premium/lavanderias-planejadas/lavanderias-planejadas-01.jpg",
+        "/images/curadoria-premium/lavanderias-planejadas/lavanderias-planejadas-02.jpg",
+        "/images/curadoria-premium/lavanderias-planejadas/lavanderias-planejadas-03.jpg",
+        "/images/curadoria-premium/lavanderias-planejadas/lavanderias-planejadas-04.jpg",
+        "/images/curadoria-premium/lavanderias-planejadas/lavanderias-planejadas-05.jpg"
+      ],
+      "images": [
+        {
+          "fileName": "lavanderias-planejadas-01.jpg",
+          "path": "/images/curadoria-premium/lavanderias-planejadas/lavanderias-planejadas-01.jpg",
+          "title": "Lavanderias planejadas 01",
+          "alt": "Lavanderia planejada com armários sob medida",
+          "recommended": true,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2700,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/modern-laundry-room-cabinets?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1778731660255-215c9172e18d",
+            "downloadUrl": "https://images.unsplash.com/photo-1778731660255-215c9172e18d?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "lavanderias-planejadas-05.jpg",
+          "path": "/images/curadoria-premium/lavanderias-planejadas/lavanderias-planejadas-02.jpg",
+          "title": "Lavanderias planejadas 05",
+          "alt": "Lavanderia planejada com armários sob medida",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1200,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/modern-laundry-room-cabinets?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1628746041614-03cc79d6e6eb",
+            "downloadUrl": "https://images.unsplash.com/photo-1628746041614-03cc79d6e6eb?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "lavanderias-planejadas-06.jpg",
+          "path": "/images/curadoria-premium/lavanderias-planejadas/lavanderias-planejadas-03.jpg",
+          "title": "Lavanderias planejadas 06",
+          "alt": "Lavanderia planejada com armários sob medida",
+          "recommended": false,
+          "orientation": "square",
+          "dimensions": {
+            "height": 1800,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/modern-laundry-room-cabinets?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1701421048900-e0adbde9b90c",
+            "downloadUrl": "https://images.unsplash.com/photo-1701421048900-e0adbde9b90c?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "lavanderias-planejadas-22.jpg",
+          "path": "/images/curadoria-premium/lavanderias-planejadas/lavanderias-planejadas-04.jpg",
+          "title": "Lavanderias planejadas 22",
+          "alt": "Lavanderia planejada com armários sob medida",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2400,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-laundry-room-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1688302740525-021cd48a1c2f",
+            "downloadUrl": "https://images.unsplash.com/photo-1688302740525-021cd48a1c2f?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "lavanderias-planejadas-23.jpg",
+          "path": "/images/curadoria-premium/lavanderias-planejadas/lavanderias-planejadas-05.jpg",
+          "title": "Lavanderias planejadas 23",
+          "alt": "Lavanderia planejada com armários sob medida",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1201,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-laundry-room-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1649805418927-643004a0afe6",
+            "downloadUrl": "https://images.unsplash.com/photo-1649805418927-643004a0afe6?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "lavanderias-planejadas-24.jpg",
+          "path": "/images/curadoria-premium/lavanderias-planejadas/lavanderias-planejadas-06.jpg",
+          "title": "Lavanderias planejadas 24",
+          "alt": "Lavanderia planejada com armários sob medida",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2400,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-laundry-room-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1751945965248-70b952b11193",
+            "downloadUrl": "https://images.unsplash.com/photo-1751945965248-70b952b11193?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "lavanderias-planejadas-25.jpg",
+          "path": "/images/curadoria-premium/lavanderias-planejadas/lavanderias-planejadas-07.jpg",
+          "title": "Lavanderias planejadas 25",
+          "alt": "Lavanderia planejada com armários sob medida",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2250,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-laundry-room-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1663811396681-8d1e6caa4da9",
+            "downloadUrl": "https://images.unsplash.com/photo-1663811396681-8d1e6caa4da9?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "path": "/images/curadoria-premium/lavanderias-planejadas/lavanderias-planejadas-08.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Lavanderia planejada com armários sob medida",
+          "originalFile": "/images/ambientes/lavanderias/lavanderias-01.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "areas-gourmet",
+      "title": "Áreas gourmet",
+      "count": 6,
+      "recommended": [
+        "/images/curadoria-premium/areas-gourmet/areas-gourmet-01.jpg",
+        "/images/curadoria-premium/areas-gourmet/areas-gourmet-02.jpg",
+        "/images/curadoria-premium/areas-gourmet/areas-gourmet-03.jpg",
+        "/images/curadoria-premium/areas-gourmet/areas-gourmet-04.jpg",
+        "/images/curadoria-premium/areas-gourmet/areas-gourmet-05.jpg"
+      ],
+      "images": [
+        {
+          "fileName": "areas-gourmet-01.jpg",
+          "path": "/images/curadoria-premium/areas-gourmet/areas-gourmet-01.jpg",
+          "title": "Áreas gourmet 01",
+          "alt": "Área gourmet com marcenaria e bancada integrada",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1013,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/outdoor-gourmet-kitchen-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1760067537540-cc36c1700d7e",
+            "downloadUrl": "https://images.unsplash.com/photo-1760067537540-cc36c1700d7e?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "areas-gourmet-03.jpg",
+          "path": "/images/curadoria-premium/areas-gourmet/areas-gourmet-02.jpg",
+          "title": "Áreas gourmet 03",
+          "alt": "Área gourmet com marcenaria e bancada integrada",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1199,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/outdoor-gourmet-kitchen-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1740140444628-11923d7ec5b5",
+            "downloadUrl": "https://images.unsplash.com/photo-1740140444628-11923d7ec5b5?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "areas-gourmet-04.jpg",
+          "path": "/images/curadoria-premium/areas-gourmet/areas-gourmet-03.jpg",
+          "title": "Áreas gourmet 04",
+          "alt": "Área gourmet com marcenaria e bancada integrada",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1202,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/outdoor-gourmet-kitchen-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1592642372421-3116c6fd156b",
+            "downloadUrl": "https://images.unsplash.com/photo-1592642372421-3116c6fd156b?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "areas-gourmet-22.jpg",
+          "path": "/images/curadoria-premium/areas-gourmet/areas-gourmet-04.jpg",
+          "title": "Áreas gourmet 22",
+          "alt": "Área gourmet com marcenaria e bancada integrada",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2250,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-outdoor-kitchen?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1762117360868-d4e757073d45",
+            "downloadUrl": "https://images.unsplash.com/photo-1762117360868-d4e757073d45?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "areas-gourmet-23.jpg",
+          "path": "/images/curadoria-premium/areas-gourmet/areas-gourmet-05.jpg",
+          "title": "Áreas gourmet 23",
+          "alt": "Área gourmet com marcenaria e bancada integrada",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2250,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-outdoor-kitchen?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1762117361035-5cd4f9c24795",
+            "downloadUrl": "https://images.unsplash.com/photo-1762117361035-5cd4f9c24795?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "areas-gourmet-24.jpg",
+          "path": "/images/curadoria-premium/areas-gourmet/areas-gourmet-06.jpg",
+          "title": "Áreas gourmet 24",
+          "alt": "Área gourmet com marcenaria e bancada integrada",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2940,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-outdoor-kitchen?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1769739132671-ac41c439d51e",
+            "downloadUrl": "https://images.unsplash.com/photo-1769739132671-ac41c439d51e?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "paineis-tv-home-theater",
+      "title": "Painéis de TV / home theater",
+      "count": 17,
+      "recommended": [
+        "/images/curadoria-premium/paineis-tv-home-theater/paineis-tv-home-theater-01.jpg",
+        "/images/curadoria-premium/paineis-tv-home-theater/paineis-tv-home-theater-02.jpg",
+        "/images/curadoria-premium/paineis-tv-home-theater/paineis-tv-home-theater-03.jpg",
+        "/images/curadoria-premium/paineis-tv-home-theater/paineis-tv-home-theater-04.jpg",
+        "/images/curadoria-premium/paineis-tv-home-theater/paineis-tv-home-theater-05.jpg"
+      ],
+      "images": [
+        {
+          "fileName": "paineis-tv-home-theater-02.jpg",
+          "path": "/images/curadoria-premium/paineis-tv-home-theater/paineis-tv-home-theater-01.jpg",
+          "title": "Painéis de TV / home theater 02",
+          "alt": "Painel de TV com home theater planejado",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1440,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-tv-wall-panel?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1667510436110-79d3dabc2008",
+            "downloadUrl": "https://images.unsplash.com/photo-1667510436110-79d3dabc2008?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "paineis-tv-home-theater-03.jpg",
+          "path": "/images/curadoria-premium/paineis-tv-home-theater/paineis-tv-home-theater-02.jpg",
+          "title": "Painéis de TV / home theater 03",
+          "alt": "Painel de TV com home theater planejado",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1125,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-tv-wall-panel?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1720247520881-672bc136da8a",
+            "downloadUrl": "https://images.unsplash.com/photo-1720247520881-672bc136da8a?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "paineis-tv-home-theater-07.jpg",
+          "path": "/images/curadoria-premium/paineis-tv-home-theater/paineis-tv-home-theater-03.jpg",
+          "title": "Painéis de TV / home theater 07",
+          "alt": "Painel de TV com home theater planejado",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1350,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-tv-wall-panel?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1745429523637-60f5986cc1db",
+            "downloadUrl": "https://images.unsplash.com/photo-1745429523637-60f5986cc1db?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "paineis-tv-home-theater-13.jpg",
+          "path": "/images/curadoria-premium/paineis-tv-home-theater/paineis-tv-home-theater-04.jpg",
+          "title": "Painéis de TV / home theater 13",
+          "alt": "Painel de TV com home theater planejado",
+          "recommended": false,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1575,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-tv-wall-panel?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1699239088716-f89316a1ab02",
+            "downloadUrl": "https://images.unsplash.com/photo-1699239088716-f89316a1ab02?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "paineis-tv-home-theater-20.jpg",
+          "path": "/images/curadoria-premium/paineis-tv-home-theater/paineis-tv-home-theater-05.jpg",
+          "title": "Painéis de TV / home theater 20",
+          "alt": "Painel de TV com home theater planejado",
+          "recommended": false,
+          "orientation": "vertical",
+          "dimensions": {
+            "height": 2700,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/modern-home-theater-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1773867567872-3ad1fa481082",
+            "downloadUrl": "https://images.unsplash.com/photo-1773867567872-3ad1fa481082?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "path": "/images/curadoria-premium/paineis-tv-home-theater/paineis-tv-home-theater-06.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Painel de TV com home theater planejado",
+          "originalFile": "/images/ambientes/salas-tv/salas-tv-01.jpeg"
+        },
+        {
+          "path": "/images/curadoria-premium/paineis-tv-home-theater/paineis-tv-home-theater-07.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Painel de TV com home theater planejado",
+          "originalFile": "/images/ambientes/salas-tv/salas-tv-02.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/paineis-tv-home-theater/paineis-tv-home-theater-08.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Painel de TV com home theater planejado",
+          "originalFile": "/images/ambientes/salas-tv/salas-tv-03.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/paineis-tv-home-theater/paineis-tv-home-theater-09.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Painel de TV com home theater planejado",
+          "originalFile": "/images/ambientes/salas-tv/salas-tv-04.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/paineis-tv-home-theater/paineis-tv-home-theater-10.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Painel de TV com home theater planejado",
+          "originalFile": "/images/ambientes/salas-tv/salas-tv-05.jpeg"
+        },
+        {
+          "path": "/images/curadoria-premium/paineis-tv-home-theater/paineis-tv-home-theater-11.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Painel de TV com home theater planejado",
+          "originalFile": "/images/ambientes/salas-tv/salas-tv-06.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/paineis-tv-home-theater/paineis-tv-home-theater-12.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Painel de TV com home theater planejado",
+          "originalFile": "/images/ambientes/salas-tv/salas-tv-07.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/paineis-tv-home-theater/paineis-tv-home-theater-13.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Painel de TV com home theater planejado",
+          "originalFile": "/images/ambientes/salas-tv/salas-tv-08.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/paineis-tv-home-theater/paineis-tv-home-theater-14.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Painel de TV com home theater planejado",
+          "originalFile": "/images/ambientes/salas-tv/salas-tv-09.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/paineis-tv-home-theater/paineis-tv-home-theater-15.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Painel de TV com home theater planejado",
+          "originalFile": "/images/ambientes/salas-tv/salas-tv-10.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/paineis-tv-home-theater/paineis-tv-home-theater-16.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Painel de TV com home theater planejado",
+          "originalFile": "/images/ambientes/salas-tv/salas-tv-11.jpg"
+        },
+        {
+          "path": "/images/curadoria-premium/paineis-tv-home-theater/paineis-tv-home-theater-17.jpg",
+          "source": "Vini Moveis original project photo",
+          "sourceUrl": null,
+          "searchUrl": null,
+          "downloadUrl": null,
+          "license": "User-provided company image",
+          "recommended": false,
+          "alt": "Painel de TV com home theater planejado",
+          "originalFile": "/images/ambientes/salas-tv/salas-tv-12.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "ambientes-corporativos",
+      "title": "Ambientes corporativos",
+      "count": 4,
+      "recommended": [
+        "/images/curadoria-premium/ambientes-corporativos/ambientes-corporativos-01.jpg",
+        "/images/curadoria-premium/ambientes-corporativos/ambientes-corporativos-02.jpg",
+        "/images/curadoria-premium/ambientes-corporativos/ambientes-corporativos-03.jpg",
+        "/images/curadoria-premium/ambientes-corporativos/ambientes-corporativos-04.jpg"
+      ],
+      "images": [
+        {
+          "fileName": "ambientes-corporativos-02.jpg",
+          "path": "/images/curadoria-premium/ambientes-corporativos/ambientes-corporativos-01.jpg",
+          "title": "Ambientes corporativos 02",
+          "alt": "Ambiente corporativo com marcenaria planejada",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1500,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-office-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1699621106755-4fe40ce95d64",
+            "downloadUrl": "https://images.unsplash.com/photo-1699621106755-4fe40ce95d64?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "ambientes-corporativos-03.jpg",
+          "path": "/images/curadoria-premium/ambientes-corporativos/ambientes-corporativos-02.jpg",
+          "title": "Ambientes corporativos 03",
+          "alt": "Ambiente corporativo com marcenaria planejada",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1009,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-office-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1737474707380-5ef35770d8a7",
+            "downloadUrl": "https://images.unsplash.com/photo-1737474707380-5ef35770d8a7?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "ambientes-corporativos-04.jpg",
+          "path": "/images/curadoria-premium/ambientes-corporativos/ambientes-corporativos-03.jpg",
+          "title": "Ambientes corporativos 04",
+          "alt": "Ambiente corporativo com marcenaria planejada",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1220,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-office-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1706074793638-da28b90ea8ae",
+            "downloadUrl": "https://images.unsplash.com/photo-1706074793638-da28b90ea8ae?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        },
+        {
+          "fileName": "ambientes-corporativos-05.jpg",
+          "path": "/images/curadoria-premium/ambientes-corporativos/ambientes-corporativos-04.jpg",
+          "title": "Ambientes corporativos 05",
+          "alt": "Ambiente corporativo com marcenaria planejada",
+          "recommended": true,
+          "orientation": "horizontal",
+          "dimensions": {
+            "height": 1013,
+            "width": 1800
+          },
+          "source": {
+            "provider": "Unsplash",
+            "searchUrl": "https://unsplash.com/s/photos/luxury-office-interior?page=1",
+            "imageUrl": "https://images.unsplash.com/photo-1706074740295-d7a79c079562",
+            "downloadUrl": "https://images.unsplash.com/photo-1706074740295-d7a79c079562?auto=format&fit=max&w=1800&q=84&fm=jpg"
+          },
+          "license": {
+            "name": "Unsplash License",
+            "url": "https://unsplash.com/license",
+            "use": "Free commercial and non-commercial use; attribution appreciated but not required."
+          }
+        }
+      ]
+    }
+  ]
+}

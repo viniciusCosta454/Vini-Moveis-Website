@@ -1,4 +1,4 @@
-// Troque as URLs abaixo pelas fotos reais dos ambientes quando estiverem prontas.
+// Image helpers for external placeholders and uploaded project photos.
 const image = (id, alt, options = {}) => {
   const width = options.width ?? 1400;
   const height = options.height ?? 950;
@@ -19,6 +19,72 @@ const image = (id, alt, options = {}) => {
   };
 };
 
+const localImage = (src, alt, options = {}) => ({
+  alt,
+  position: options.position ?? 'center',
+  src,
+});
+
+const ambienteImage = (folder, fileName, alt, options = {}) =>
+  localImage(`/images/ambientes/${folder}/${fileName}`, alt, options);
+
+const numberedAmbienteImage = (folder, number, alt, options = {}) => {
+  const fileNumber = String(number).padStart(2, '0');
+  const extension = options.extension ?? 'jpg';
+
+  return ambienteImage(folder, `${folder}-${fileNumber}.${extension}`, alt, options);
+};
+
+const ambienteIdeas = ({
+  folder,
+  count,
+  title,
+  description,
+  alt,
+  extensions = {},
+  positions = {},
+}) =>
+  Array.from({ length: count }, (_, index) => {
+    const number = index + 1;
+    const fileNumber = String(number).padStart(2, '0');
+
+    return {
+      title: `${title} ${fileNumber}`,
+      description,
+      image: numberedAmbienteImage(folder, number, alt, {
+        extension: extensions[number],
+        position: positions[number],
+      }),
+    };
+  });
+
+const curatedImage = (folder, number, alt, options = {}) => {
+  const fileNumber = String(number).padStart(2, '0');
+
+  return localImage(
+    `/images/curadoria-premium/${folder}/${folder}-${fileNumber}.jpg`,
+    alt,
+    options,
+  );
+};
+
+const curatedCoverImage = ({ folder, index, alt, ...options }) =>
+  curatedImage(folder, index, alt, options);
+
+const curatedIdeas = ({ folder, count = 0, title, description, alt, positions = {} }) => {
+  return Array.from({ length: count }, (_, index) => index + 1)
+    .map((number, index) => {
+      const fileNumber = String(index + 1).padStart(2, '0');
+
+      return {
+        title: `${title} ${fileNumber}`,
+        description,
+        sourceNumber: number,
+        image: curatedImage(folder, number, alt, { position: positions[number] }),
+      };
+    });
+};
+
 export const business = {
   name: 'Vini Móveis Planejados',
   location: 'Curitiba, Paraná',
@@ -30,10 +96,9 @@ export const business = {
     'https://www.google.com/maps?q=Av.%20Mal.%20Floriano%20Peixoto%2C%206158%20-%20Hauer%2C%20Curitiba%20-%20PR%2C%2081630-000&output=embed',
   mapsUrl:
     'https://www.google.com/maps/search/?api=1&query=Av.%20Mal.%20Floriano%20Peixoto%2C%206158%20-%20Hauer%2C%20Curitiba%20-%20PR%2C%2081630-000',
-  googleReviewsUrl:
-    'https://www.google.com/maps/search/?api=1&query=Vini%20M%C3%B3veis%20Planejados%20Av.%20Mal.%20Floriano%20Peixoto%206158%20Curitiba',
-  instagram: '#',
-  facebook: '#',
+  googleReviewsUrl: 'https://g.page/r/CW_X8_sLKZGDEBM/review',
+  instagram: 'https://www.instagram.com/vinimoveis/',
+  facebook: 'https://www.facebook.com/share/1Nujgdssuc/?mibextid=wwXIfr',
 };
 
 export const logos = {
@@ -50,16 +115,16 @@ export const navLinks = [
   { label: 'Contato', href: '#contato' },
 ];
 
-export const heroImage = image(
-  'photo-1771371282665-545256b20dca',
-  'Cozinha planejada moderna com armários em madeira e bancada sob medida',
-  { width: 2200, height: 1500, position: 'center' },
+export const heroImage = curatedImage(
+  'cozinhas-planejadas',
+  2,
+  'Cozinha planejada com madeira, pedra escura e marcenaria sob medida',
 );
 
-export const aboutImage = image(
-  'photo-1600607687939-ce8a6c25118c',
-  'Sala planejada com painel e marcenaria sob medida',
-  { width: 1400, height: 1600, position: 'center' },
+export const aboutImage = localImage(
+  '/images/ambientes/fachada/fachada.jpg',
+  'Fachada da Vini Moveis Planejados em Curitiba',
+  { position: 'center 42%' },
 );
 
 export const trustBadges = [
@@ -80,179 +145,173 @@ export const aboutHighlights = [
 export const environments = [
   {
     title: 'Cozinhas Planejadas',
-    description: 'Layout inteligente, armários sob medida e acabamentos pensados para a rotina da casa.',
-    image: image('photo-1771371282665-545256b20dca', 'Cozinha planejada moderna com armários em madeira e bancada sob medida'),
-    ideas: [
-      {
-        title: 'Cozinha amadeirada com bancada clara',
-        description: 'Uma composição quente e elegante para integrar armários, bancada e área de preparo.',
-        image: image('photo-1771371282665-545256b20dca', 'Cozinha planejada moderna com armários em madeira e bancada sob medida'),
-      },
-      {
-        title: 'Cozinha com ilha funcional',
-        description: 'Ideal para quem quer mais apoio, armazenamento e convivência no centro do ambiente.',
-        image: image('photo-1556911220-bff31c812dba', 'Cozinha planejada com ilha e armários sob medida'),
-      },
-      {
-        title: 'Cozinha compacta e bem aproveitada',
-        description: 'Armários sob medida para organizar melhor a rotina sem pesar visualmente o espaço.',
-        image: image('photo-1556909212-d5b604d0c90d', 'Cozinha compacta com armários planejados e acabamento claro'),
-      },
-    ],
+    description: 'Marcenaria sob medida, ilhas, torres, painéis e acabamentos nobres para uma cozinha elegante e funcional.',
+    image: curatedCoverImage({
+      folder: 'cozinhas-planejadas',
+      index: 2,
+      alt: 'Cozinha planejada com madeira, pedra escura e marcenaria sob medida',
+    }),
+    ideas: curatedIdeas({
+      folder: 'cozinhas-planejadas',
+      count: 38,
+      title: 'Cozinha planejada',
+      description:
+        'Referência de cozinha planejada com linguagem contemporânea, materiais elegantes e soluções sob medida para armazenamento, preparo e convivência.',
+      alt: 'Cozinha planejada com móveis sob medida',
+    }),
   },
   {
-    title: 'Dormitórios',
-    description: 'Guarda-roupas, cabeceiras e soluções de armazenamento com conforto visual e praticidade.',
-    image: image('photo-1769690398694-9c5d5ca4b4ea', 'Dormitório planejado com guarda-roupa amplo e acabamento claro'),
-    ideas: [
-      {
-        title: 'Dormitório com guarda-roupa amplo',
-        description: 'Solução para organizar roupas e acessórios com portas elegantes e acabamento leve.',
-        image: image('photo-1769690398694-9c5d5ca4b4ea', 'Dormitório planejado com guarda-roupa amplo e acabamento claro'),
-      },
-      {
-        title: 'Quarto neutro com marcenaria sob medida',
-        description: 'Um ambiente sereno, com móveis planejados para criar conforto e boa circulação.',
-        image: image('photo-1595526114035-0d45ed16cfbf', 'Dormitório planejado em tons neutros com móveis sob medida'),
-      },
-      {
-        title: 'Cabeceira planejada com apoio lateral',
-        description: 'Detalhes de marcenaria para valorizar a cama e resolver iluminação, apoio e armazenamento.',
-        image: image('photo-1616594039964-ae9021a400a0', 'Dormitório com cabeceira planejada e decoração em tons claros'),
-      },
-    ],
+    title: 'Dormitórios Planejados',
+    description: 'Guarda-roupas, cabeceiras, painéis e soluções integradas para quartos com conforto e presença visual.',
+    image: curatedCoverImage({
+      folder: 'dormitorios-planejados',
+      index: 1,
+      alt: 'Dormitório planejado com armários de vidro e cabeceira sob medida',
+    }),
+    ideas: curatedIdeas({
+      folder: 'dormitorios-planejados',
+      count: 30,
+      title: 'Dormitório planejado',
+      description:
+        'Referência de dormitório com marcenaria planejada, tons neutros, iluminação acolhedora e soluções que equilibram descanso e organização.',
+      alt: 'Dormitório planejado com móveis sob medida',
+    }),
   },
   {
     title: 'Closets',
-    description: 'Projetos para organizar roupas, acessórios e rotina com elegância e acesso fácil.',
-    image: image('photo-1751806524616-47dd4fabd68d', 'Closet planejado com portas de vidro, madeira e iluminação quente'),
-    ideas: [
-      {
-        title: 'Closet com portas de vidro',
-        description: 'Visual sofisticado, iluminação quente e organização pensada para o uso diário.',
-        image: image('photo-1751806524616-47dd4fabd68d', 'Closet planejado com portas de vidro, madeira e iluminação quente'),
-      },
-      {
-        title: 'Closet aberto com nichos',
-        description: 'Prateleiras, gavetas e cabideiros em uma composição prática para visualizar tudo.',
-        image: image('photo-1723258338919-96a200e87cab', 'Closet aberto com nichos, cabideiros e marcenaria sob medida'),
-      },
-      {
-        title: 'Closet claro com iluminação',
-        description: 'Uma solução leve para manter peças e acessórios bem distribuídos no espaço.',
-        image: image('photo-1616046229478-9901c5536a45', 'Closet planejado com iluminação e portas sob medida'),
-      },
-    ],
+    description: 'Closets abertos ou fechados, com iluminação, nichos e módulos para uma rotina mais organizada e sofisticada.',
+    image: curatedCoverImage({
+      folder: 'closets',
+      index: 1,
+      alt: 'Closet com módulos planejados em madeira e iluminação embutida',
+    }),
+    ideas: curatedIdeas({
+      folder: 'closets',
+      count: 19,
+      title: 'Closet planejado',
+      description:
+        'Referência de closet com módulos sob medida, iluminação embutida, gavetas, cabideiros e acabamento de alto padrão.',
+      alt: 'Closet com armários planejados',
+    }),
   },
   {
-    title: 'Banheiros e Lavabos',
-    description: 'Bancadas, nichos e gabinetes desenhados para aproveitar cada centímetro com leveza.',
-    image: image('photo-1763485956292-7b9bed7b3c10', 'Banheiro moderno com gabinete planejado em madeira e bancada clara'),
-    ideas: [
-      {
-        title: 'Banheiro com gabinete amadeirado',
-        description: 'Gabinete sob medida, bancada clara e equilíbrio entre resistência e estética.',
-        image: image('photo-1763485956292-7b9bed7b3c10', 'Banheiro moderno com gabinete planejado em madeira e bancada clara'),
-      },
-      {
-        title: 'Lavabo com marcenaria leve',
-        description: 'Uma proposta elegante para espaços menores, com armazenamento sem excesso visual.',
-        image: image('photo-1584622650111-993a426fbf0a', 'Banheiro com gabinete planejado e acabamento claro'),
-      },
-      {
-        title: 'Bancada com nichos planejados',
-        description: 'Aproveitamento inteligente para produtos, toalhas e itens de uso frequente.',
-        image: image('photo-1765745518752-68a289300789', 'Banheiro com bancada planejada, espelho e gabinete em madeira'),
-      },
-    ],
+    title: 'Banheiros Planejados',
+    description: 'Gabinetes, bancadas, espelhos e nichos com materiais nobres para banheiros e lavabos de alto padrão.',
+    image: curatedCoverImage({
+      folder: 'banheiros-planejados',
+      index: 1,
+      alt: 'Banheiro planejado com mármore, gabinete e bancada sob medida',
+    }),
+    ideas: curatedIdeas({
+      folder: 'banheiros-planejados',
+      count: 32,
+      title: 'Banheiro planejado',
+      description:
+        'Referência de banheiro ou lavabo com gabinete planejado, metais elegantes, pedra, iluminação e composição limpa.',
+      alt: 'Banheiro planejado com gabinete sob medida',
+    }),
   },
   {
-    title: 'Lavanderias',
-    description: 'Armários funcionais para organizar produtos, equipamentos e áreas compactas.',
-    image: image('photo-1751945965248-70b952b11193', 'Lavanderia planejada com armários superiores, bancada e máquina de lavar'),
-    ideas: [
-      {
-        title: 'Lavanderia com armários superiores',
-        description: 'Armários, bancada e espaço para equipamentos em uma área limpa e funcional.',
-        image: image('photo-1751945965248-70b952b11193', 'Lavanderia planejada com armários superiores, bancada e máquina de lavar'),
-      },
-      {
-        title: 'Lavanderia clara e organizada',
-        description: 'Solução prática para guardar produtos e deixar a área de serviço mais discreta.',
-        image: image('photo-1556228453-efd6c1ff04f6', 'Lavanderia planejada com armários claros e área para equipamentos'),
-      },
-      {
-        title: 'Área compacta com bancada',
-        description: 'Projeto pensado para otimizar circulação, organização e apoio para tarefas da rotina.',
-        image: image('photo-1626806787461-102c1bfaaea1', 'Lavanderia compacta com máquina de lavar, bancada e armários planejados'),
-      },
-    ],
+    title: 'Salas de Estar',
+    description: 'Marcenaria integrada, painéis, estantes e composições sob medida para áreas sociais elegantes.',
+    image: curatedCoverImage({
+      folder: 'salas-de-estar',
+      index: 7,
+      alt: 'Sala de estar com painel, lareira e composição em tons neutros',
+    }),
+    ideas: curatedIdeas({
+      folder: 'salas-de-estar',
+      count: 15,
+      title: 'Sala de estar',
+      description:
+        'Referência de sala de estar com composição sofisticada, mobiliário integrado, iluminação quente e paleta neutra.',
+      alt: 'Sala de estar com marcenaria integrada',
+    }),
   },
   {
     title: 'Home Office',
-    description: 'Estações de trabalho sob medida para produtividade, conforto e integração com o ambiente.',
-    image: image('photo-1764743111075-fb988af9ed75', 'Home office planejado com bancada, armários e prateleiras sob medida'),
-    ideas: [
-      {
-        title: 'Home office com bancada e prateleiras',
-        description: 'Estação de trabalho integrada, com apoio visual leve e armazenamento próximo.',
-        image: image('photo-1764743111075-fb988af9ed75', 'Home office planejado com bancada, armários e prateleiras sob medida'),
-      },
-      {
-        title: 'Escritório com armários fechados',
-        description: 'Uma solução para manter documentos, equipamentos e rotina de trabalho bem organizados.',
-        image: image('photo-1772475385509-93fd87a2d4ba', 'Home office moderno com armários planejados e bancada de trabalho'),
-      },
-      {
-        title: 'Bancada para estudo e trabalho',
-        description: 'Projeto compacto para produtividade, conforto e melhor aproveitamento de parede.',
-        image: image('photo-1497366754035-f200968a6e72', 'Home office planejado com bancada e estantes'),
-      },
-    ],
+    description: 'Bancadas, estantes, painéis e armários planejados para trabalhar com conforto e identidade.',
+    image: curatedCoverImage({
+      folder: 'home-office',
+      index: 7,
+      alt: 'Home office com mesa em mármore e composição sofisticada',
+    }),
+    ideas: curatedIdeas({
+      folder: 'home-office',
+      count: 7,
+      title: 'Home office',
+      description:
+        'Referência de home office com bancada, estantes, armários e acabamento refinado para uma rotina produtiva e elegante.',
+      alt: 'Home office com bancada e armários planejados',
+    }),
   },
   {
-    title: 'Salas de TV',
-    description: 'Painéis, racks e cristaleiras que valorizam o espaço social sem perder funcionalidade.',
-    image: image('photo-1755288556795-711618bfca4e', 'Sala de TV com painel planejado em madeira, rack e marcenaria sob medida'),
-    ideas: [
-      {
-        title: 'Painel de TV amadeirado',
-        description: 'Painel, rack e marcenaria integrada para deixar a sala elegante e funcional.',
-        image: image('photo-1755288556795-711618bfca4e', 'Sala de TV com painel planejado em madeira, rack e marcenaria sob medida'),
-      },
-      {
-        title: 'Sala com rack baixo e painel',
-        description: 'Composição limpa para esconder fios, organizar aparelhos e valorizar a parede principal.',
-        image: image('photo-1618220179428-22790b461013', 'Sala de TV planejada com painel em madeira e rack baixo'),
-      },
-      {
-        title: 'Estar integrado com marcenaria',
-        description: 'Uma proposta para unir painel, prateleiras e área social em um conjunto mais sofisticado.',
-        image: image('photo-1600607687939-ce8a6c25118c', 'Sala planejada com painel e marcenaria sob medida'),
-      },
-    ],
+    title: 'Lavanderias Planejadas',
+    description: 'Armários, bancadas e soluções discretas para transformar áreas de serviço em espaços organizados e bonitos.',
+    image: curatedCoverImage({
+      folder: 'lavanderias-planejadas',
+      index: 6,
+      alt: 'Lavanderia planejada com armários e bancada sob medida',
+    }),
+    ideas: curatedIdeas({
+      folder: 'lavanderias-planejadas',
+      count: 8,
+      title: 'Lavanderia planejada',
+      description:
+        'Referência de lavanderia planejada com armários funcionais, bancadas, iluminação e integração limpa com a casa.',
+      alt: 'Lavanderia planejada com armários sob medida',
+    }),
   },
   {
-    title: 'Studios e apartamentos compactos',
-    description: 'Soluções completas para integrar ambientes e transformar áreas pequenas em espaços bem resolvidos.',
-    image: image('photo-1721395283507-1b17e527a922', 'Apartamento compacto integrado com cozinha planejada e área social aberta'),
-    ideas: [
-      {
-        title: 'Studio integrado com cozinha planejada',
-        description: 'Marcenaria para integrar áreas sem perder armazenamento, circulação e identidade visual.',
-        image: image('photo-1721395283507-1b17e527a922', 'Apartamento compacto integrado com cozinha planejada e área social aberta'),
-      },
-      {
-        title: 'Apartamento compacto funcional',
-        description: 'Soluções sob medida para aproveitar paredes, cantos e transições entre ambientes.',
-        image: image('photo-1522708323590-d24dbb6b0267', 'Apartamento compacto com mobiliário planejado'),
-      },
-      {
-        title: 'Ambiente pequeno com marcenaria leve',
-        description: 'Projeto para deixar o espaço mais organizado, confortável e visualmente amplo.',
-        image: image('photo-1560448204-603b3fc33ddc', 'Apartamento compacto com móveis planejados e integração de ambientes'),
-      },
-    ],
+    title: 'Áreas Gourmet',
+    description: 'Bancadas, armários, painéis e integração indoor/outdoor para receber com sofisticação.',
+    image: curatedCoverImage({
+      folder: 'areas-gourmet',
+      index: 5,
+      alt: 'Área gourmet integrada com cozinha, bancada e jardim',
+    }),
+    ideas: curatedIdeas({
+      folder: 'areas-gourmet',
+      count: 6,
+      title: 'Área gourmet',
+      description:
+        'Referência de área gourmet com bancada, marcenaria, iluminação e integração elegante para receber amigos e família.',
+      alt: 'Área gourmet com marcenaria e bancada integrada',
+    }),
+  },
+  {
+    title: 'Painéis de TV / Home Theater',
+    description: 'Painéis ripados, racks, cristaleiras e soluções para valorizar a sala com tecnologia bem integrada.',
+    image: curatedCoverImage({
+      folder: 'paineis-tv-home-theater',
+      index: 3,
+      alt: 'Painel de TV ripado com rack planejado e acabamento em madeira',
+    }),
+    ideas: curatedIdeas({
+      folder: 'paineis-tv-home-theater',
+      count: 17,
+      title: 'Painel de TV',
+      description:
+        'Referência de painel de TV ou home theater com marcenaria integrada, iluminação, rack e acabamento contemporâneo.',
+      alt: 'Painel de TV com home theater planejado',
+    }),
+  },
+  {
+    title: 'Ambientes Corporativos',
+    description: 'Recepções, salas executivas e áreas de trabalho com marcenaria sob medida e presença institucional.',
+    image: curatedCoverImage({
+      folder: 'ambientes-corporativos',
+      index: 3,
+      alt: 'Ambiente corporativo com marcenaria planejada e iluminação embutida',
+    }),
+    ideas: curatedIdeas({
+      folder: 'ambientes-corporativos',
+      count: 4,
+      title: 'Ambiente corporativo',
+      description:
+        'Referência de ambiente corporativo com marcenaria planejada, acabamento refinado e composição profissional.',
+      alt: 'Ambiente corporativo com marcenaria planejada',
+    }),
   },
 ];
 

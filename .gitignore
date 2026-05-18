@@ -4,6 +4,7 @@ dist/
 .env
 .env.local
 npm-debug.log*
+source-images/
 
 # Local Netlify folder
 .netlify

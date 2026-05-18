@@ -68,7 +68,7 @@ export default function EnvironmentIdeasModal({ environment, activeIndex, onChan
 
   return (
     <div
-      className="fixed inset-0 z-[80] flex items-start justify-center overflow-y-auto bg-vini-ink/84 px-4 py-5 text-vini-ink backdrop-blur-md sm:px-6 lg:items-center"
+      className="fixed inset-0 z-[80] flex items-center justify-center overflow-hidden bg-vini-ink/84 px-3 py-3 text-vini-ink backdrop-blur-md sm:px-6 sm:py-6"
       role="dialog"
       aria-modal="true"
       aria-labelledby="environment-ideas-title"
@@ -80,7 +80,7 @@ export default function EnvironmentIdeasModal({ environment, activeIndex, onChan
         onClick={onClose}
       />
 
-      <div className="relative z-10 grid w-full max-w-6xl overflow-hidden bg-vini-ivory shadow-[0_34px_90px_rgba(0,0,0,0.38)] lg:max-h-[calc(100svh-2rem)] lg:grid-cols-[minmax(0,1.35fr)_minmax(320px,0.65fr)]">
+      <div className="relative z-10 flex h-[90svh] max-h-[90svh] w-full max-w-[calc(100vw-1.5rem)] flex-col overflow-hidden bg-vini-ivory shadow-[0_34px_90px_rgba(0,0,0,0.38)] sm:max-w-[90vw] lg:grid lg:h-[min(90svh,860px)] lg:max-w-6xl lg:grid-cols-[minmax(0,1.35fr)_minmax(320px,0.65fr)]">
         <button
           type="button"
           className="absolute right-4 top-4 z-20 grid h-11 w-11 place-items-center rounded-full border border-white/25 bg-vini-ink/70 text-white shadow-lg shadow-black/20 transition hover:bg-vini-ink focus:outline-none focus-visible:ring-2 focus-visible:ring-white"
@@ -90,12 +90,12 @@ export default function EnvironmentIdeasModal({ environment, activeIndex, onChan
           <X aria-hidden="true" className="h-5 w-5" />
         </button>
 
-        <div className="relative min-h-[240px] bg-vini-ink p-3 sm:min-h-[320px] sm:p-4 lg:min-h-[620px]">
-          <div className="relative h-full min-h-[240px] overflow-hidden bg-vini-charcoal sm:min-h-[320px]">
+        <div className="relative h-[34svh] min-h-[210px] max-h-[390px] shrink-0 bg-vini-ink p-2 sm:h-[38svh] sm:min-h-[260px] sm:p-3 lg:h-full lg:max-h-none lg:min-h-0 lg:p-4">
+          <div className="relative h-full min-h-0 overflow-hidden bg-vini-charcoal">
             <OptimizedImage
               image={activeIdea.image}
               sizes="(min-width: 1024px) 62vw, 100vw"
-              className="h-full w-full object-cover transition duration-500"
+              className="h-full w-full object-contain transition duration-500"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-vini-ink/64 via-vini-ink/8 to-transparent" />
             <div className="absolute bottom-5 left-5 right-5 flex items-end justify-between gap-4 text-white">
@@ -103,7 +103,7 @@ export default function EnvironmentIdeasModal({ environment, activeIndex, onChan
                 <p className="text-xs font-bold uppercase tracking-[0.18em] text-white/72">
                   Modelo {currentIndex + 1} de {ideas.length}
                 </p>
-                <h3 className="mt-2 font-display text-3xl text-vini-ivory md:text-4xl">{activeIdea.title}</h3>
+                <h3 className="mt-2 font-display text-2xl text-vini-ivory sm:text-3xl md:text-4xl">{activeIdea.title}</h3>
               </div>
             </div>
 
@@ -130,20 +130,62 @@ export default function EnvironmentIdeasModal({ environment, activeIndex, onChan
           </div>
         </div>
 
-        <div className="flex flex-col p-6 sm:p-8 lg:max-h-[calc(100svh-2rem)] lg:overflow-y-auto">
-          <p className="text-xs font-bold uppercase tracking-[0.2em] text-vini-wood">Ideias para</p>
-          <h2 id="environment-ideas-title" className="mt-3 font-display text-4xl text-vini-ink">
-            {environment.title}
-          </h2>
-          <p className="mt-4 text-sm leading-7 text-vini-charcoal/72">{environment.description}</p>
+        <div className="flex min-h-0 flex-1 flex-col overflow-hidden p-5 sm:p-6 lg:h-full lg:p-8">
+          <div className="min-h-0 flex-1 overflow-y-auto overscroll-contain pr-1">
+            <div>
+              <p className="text-xs font-bold uppercase tracking-[0.2em] text-vini-wood">Ideias para</p>
+              <h2 id="environment-ideas-title" className="mt-2 font-display text-3xl text-vini-ink sm:text-4xl">
+                {environment.title}
+              </h2>
+              <p className="mt-3 text-sm leading-6 text-vini-charcoal/72">
+                {environment.description}
+              </p>
+            </div>
 
-          <div className="mt-7 border-y border-vini-ink/10 py-6">
-            <p className="text-xs font-bold uppercase tracking-[0.18em] text-vini-bronze">Modelo selecionado</p>
-            <h3 className="mt-3 text-2xl font-semibold text-vini-ink">{activeIdea.title}</h3>
-            <p className="mt-3 text-sm leading-7 text-vini-charcoal/72">{activeIdea.description}</p>
+            <div className="mt-4 border-y border-vini-ink/10 py-4 sm:mt-5 sm:py-5">
+              <p className="text-xs font-bold uppercase tracking-[0.18em] text-vini-bronze">Modelo selecionado</p>
+              <h3 className="mt-2 text-xl font-semibold text-vini-ink sm:text-2xl">{activeIdea.title}</h3>
+              <p className="mt-2 text-sm leading-6 text-vini-charcoal/72">
+                {activeIdea.description}
+              </p>
+            </div>
+
+            {hasMultipleIdeas && (
+              <div className="mt-4 pb-3 sm:mt-5">
+                <p className="text-xs font-bold uppercase tracking-[0.18em] text-vini-bronze">Modelos disponíveis</p>
+                <div className="mt-3 grid grid-cols-4 gap-2 sm:grid-cols-5 lg:grid-cols-3 xl:grid-cols-4">
+                  {ideas.map((idea, index) => {
+                    const isActive = index === currentIndex;
+
+                    return (
+                      <button
+                        key={`${idea.title}-${index}`}
+                        type="button"
+                        onClick={() => onChangeIndex(index)}
+                        className={`group/thumb relative aspect-square overflow-hidden border bg-vini-smoke transition focus:outline-none focus-visible:ring-2 focus-visible:ring-vini-bronze ${
+                          isActive
+                            ? 'border-vini-bronze ring-2 ring-vini-bronze/30'
+                            : 'border-vini-ink/10 hover:border-vini-bronze'
+                        }`}
+                        aria-label={`Selecionar ${idea.title}`}
+                      >
+                        <OptimizedImage
+                          image={idea.image}
+                          sizes="(min-width: 1024px) 8vw, 25vw"
+                          className="h-full w-full object-cover transition duration-300 group-hover/thumb:scale-105"
+                        />
+                        <span className="absolute bottom-1.5 left-1.5 grid h-6 min-w-6 place-items-center bg-vini-ink/72 px-2 text-[0.68rem] font-bold text-white">
+                          {index + 1}
+                        </span>
+                      </button>
+                    );
+                  })}
+                </div>
+              </div>
+            )}
           </div>
 
-          <div className="mt-7 flex flex-col gap-3 lg:mt-auto">
+          <div className="mt-4 flex shrink-0 flex-col gap-3 border-t border-vini-ink/10 pt-4 sm:mt-5 lg:mt-5">
             <a
               href={whatsappLink(quoteMessage)}
               className="group inline-flex min-h-12 w-full items-center justify-center gap-2 rounded-full bg-vini-bronze px-5 py-3 text-center text-xs font-bold uppercase tracking-[0.15em] text-vini-ink shadow-[0_12px_28px_rgba(176,138,87,0.26)] transition-all duration-300 hover:-translate-y-0.5 hover:bg-vini-caramel hover:shadow-[0_18px_42px_rgba(176,138,87,0.34)] focus:outline-none focus-visible:ring-2 focus-visible:ring-vini-bronze focus-visible:ring-offset-2 focus-visible:ring-offset-vini-ivory"
