@@ -16,7 +16,7 @@ export default function Process() {
 
         <div className="mt-14 grid gap-5 md:grid-cols-2 lg:grid-cols-3">
           {processSteps.map((step, index) => (
-            <article key={step.title} className="reveal border border-vini-ink/10 bg-vini-ivory p-7 shadow-sm">
+            <article key={step.title} className="reveal border border-vini-ink/10 bg-vini-ivory p-7 shadow-sm transition duration-300 hover:-translate-y-1 hover:shadow-soft">
               <span className="font-display text-5xl leading-none text-vini-bronze">
                 {String(index + 1).padStart(2, '0')}
               </span>

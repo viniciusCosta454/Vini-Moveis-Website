@@ -72,7 +72,7 @@ export default function Testimonials() {
 
         <div className="reveal mt-12">
           <div
-            className="testimonial-carousel -my-8 overflow-hidden py-8"
+            className="testimonial-carousel -mt-8 overflow-hidden pb-16 pt-8 md:pb-20"
             data-direction={animationDirection ?? 'idle'}
             data-resetting={isTrackResetting ? 'true' : 'false'}
             aria-live="polite"
@@ -115,7 +115,7 @@ export default function Testimonials() {
             </div>
           </div>
 
-          <div className="mt-8 flex flex-col items-center justify-between gap-5 md:flex-row">
+          <div className="mt-2 flex flex-col items-center justify-between gap-5 md:flex-row">
             <div className="flex items-center gap-3">
               <button
                 type="button"
